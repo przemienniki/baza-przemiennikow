@@ -6,7 +6,7 @@ W związku z powstaniem i rozwojem strony <https://przemienniki.eu/> powstał po
 
 <https://github.com/przemienniki/baza-przemiennikow/>
 
-Uruchamiany raz na dobę prosty skrypt (*daily.sh*) ściąga aktualną bazę ze wspomnianej strony i jeśli są jakieś zmiany, to wypycha je do tego repozytorium.
+Uruchamiany raz na dobę prosty skrypt (*daily.sh*) ściąga aktualną bazę z strony *przemienniki.eu* i jeśli są jakieś zmiany, to wypycha je do tego repozytorium.
 
 Celem jest zachowanie gromadzonej społecznie wiedzy oraz historii zmian.
 
@@ -20,11 +20,11 @@ JSON, CSV i CSV dla programu Chirp. Szczegóły: <https://przemienniki.eu/ekspor
 
 Wyłącznie przez stronę <https://przemienniki.eu/>. Tak długo, jak strona jest funkcjonalna, nie chcemy tworzyć kopii bazy (choć oczywiście nic nie stoi na przeszkodzie, żeby ktoś sobie sforkował repozytorium i używał go tak, jak uważa za stosowne). Oficjalna baza znajduje się na stronie *przemienniki.eu*. Tutaj znajduje się jedynie kopia.
 
-Jeśli autor strony *przemienniki.eu* kiedykolwiek porzuci projekt, to oczywiście będzie można zgłaszać zmiany poprzez Pull Request do tego repozytorium, ale najlepiej, gdyby nie porzucił :)
+Jeśli autor strony *przemienniki.eu* kiedykolwiek porzuci projekt, to oczywiście będzie można zgłaszać zmiany poprzez PR do repozytorium (lub w inny sposób), ale najlepiej, gdyby nie porzucił :)
 
-## Jak mogę zgłosić zmianę w README?
+## Jak mogę zgłosić zmianę w tym README?
 
-Przez pull request albo issue tracker na GitHubie.
+Najlepiej przez [Issue Tracker](https://github.com/przemienniki/baza-przemiennikow/issues).
 
 ## Przejrzałem skrypt, znalazłem błąd! Jak mogę go zgłosić?
 
