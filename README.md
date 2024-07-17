@@ -12,6 +12,10 @@ Celem jest zachowanie gromadzonej społecznie wiedzy oraz historii zmian.
 
 Skrypt został umieszczony w repozytorium jedynie w celu zapewnienia przejrzystości. Nie jest potrzebny do korzystania z bazy.
 
+## Jakie formaty danych są dostępne?
+
+JSON, CSV i CSV dla programu Chirp. Szczegóły: <https://przemienniki.eu/eksport-danych/>.
+
 ## Jak mogę zgłosić zmianę w bazie?
 
 Wyłącznie przez stronę <https://przemienniki.eu/>. Tak długo, jak strona jest funkcjonalna, nie chcemy tworzyć kopii bazy (choć oczywiście nic nie stoi na przeszkodzie, żeby ktoś sobie sforkował repozytorium i używał go tak, jak uważa za stosowne). Oficjalna baza znajduje się na stronie *przemienniki.eu*. Tutaj znajduje się jedynie kopia.
@@ -22,7 +26,7 @@ Jeśli autor strony *przemienniki.eu* kiedykolwiek porzuci projekt, to oczywiśc
 
 Przez pull request albo issue tracker na GitHubie.
 
-## Przejrzałem skrypt, zawiera błąd! Jak mogę go zgłosić?
+## Przejrzałem skrypt, znalazłem błąd! Jak mogę go zgłosić?
 
 Tak samo jak zmianę w README.
 
@@ -32,7 +36,7 @@ Jeśli od dawna nie było zmian, to są dwie możliwości: albo faktycznie nie b
 
 ## Czy repozytorium jest powiązane ze stroną przemienniki.eu?
 
-Nie, choć autor (SQ8W) wie o jego istnieniu. Skrypt korzysta z oficjalnego API, udostępnianego przez stronę *przemienniki.eu*, ale jest tworzony przez inną osobę i pracuje na innej infrastrukturze. Autor *przemienniki.eu* nie ma z tym repozytorium nic wspólnego.
+Nie, choć autor wie o jego istnieniu. Skrypt korzysta z oficjalnego API, udostępnianego przez stronę *przemienniki.eu*, ale jest tworzony przez inną osobę i pracuje na innej infrastrukturze. Autor *przemienniki.eu* nie ma z tym repozytorium nic wspólnego.
 
 ## Tworzę nowy projekt związany z polskimi przemiennikami. Czy mogę hostować repozytorium w projekcie „przemienniki” na GitHubie?
 
@@ -40,4 +44,6 @@ Jasne. Daj mi znać.
 
 ## Kto za tym stoi?
 
-[SP5GOF](http://qrz.com/db/sp5gof)
+Stronę <https://przemienniki.eu/> stworzył i rozwija [Wojtek SQ5W](http://qrz.com/db/sq8w).
+
+Repozytorium stworzył i utrzymanie [Adam SP5GOF](http://qrz.com/db/sp5gof).
