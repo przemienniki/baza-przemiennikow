@@ -2286,6 +2286,25 @@
         "qth": "Ostrow Wielkopolski"
     },
     {
+        "callsign": "SR3OW",
+        "modes": [
+            "c4fm"
+        ],
+        "tx_frequency": 439.05000000000001136868377216160297393798828125,
+        "tx_ctcss": 103.5,
+        "rx_frequency": 431.44999999999998863131622783839702606201171875,
+        "rx_ctcss": 103.5,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.5999999999999996447286321199499070644378662109375,
+        "status": "off",
+        "coordinates": [
+            0,
+            0
+        ],
+        "qth": "Ostrow WLKp"
+    },
+    {
         "callsign": "SR3P",
         "modes": [
             "fm"
@@ -4523,7 +4542,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.5999999999999996447286321199499070644378662109375,
-        "status": "off",
+        "status": "working",
         "coordinates": [
             52.544454999999999245119397528469562530517578125,
             19.71964799999999939927874947898089885711669921875
@@ -6301,7 +6320,8 @@
     {
         "callsign": "SR7ABZ",
         "modes": [
-            "fm"
+            "fm",
+            "fmpoland"
         ],
         "tx_frequency": 145.275000000000005684341886080801486968994140625,
         "tx_ctcss": 88.5,
@@ -6532,7 +6552,8 @@
         "callsign": "SR7KGO",
         "modes": [
             "fm",
-            "echolink"
+            "echolink",
+            "fmpoland"
         ],
         "tx_frequency": 145.275000000000005684341886080801486968994140625,
         "tx_ctcss": 88.5,

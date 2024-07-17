@@ -117,6 +117,7 @@ SR3MDW,"fm, echolink",439.2250,103.5,431.6250,103.5,false,-,7.6,working,51.84413
 SR3N,fm,145.6875,110.9,145.0875,110.9,false,-,0.6,working,53.146203,16.71503,Pila
 SR3O,fm,145.7250,,145.1250,103.5,false,-,0.6,working,51.64643,17.819217,"Ostrow Wielkopolski"
 SR3OS,fm,439.3000,103.5,431.7000,103.5,true,-,7.6,inprogress,51.64643,17.819217,"Ostrow Wielkopolski"
+SR3OW,c4fm,439.0500,103.5,431.4500,103.5,false,-,7.6,off,0,0,"Ostrow WLKp"
 SR3P,fm,145.6500,110.9,145.0500,110.9,true,-,0.6,working,52.371322,16.908054,"Poznan - Debiec"
 SR3PB,fm,438.8750,110.9,431.2750,110.9,false,-,7.6,working,52.476886,17.279806,Pobiedziska
 SR3PI,fm,439.0500,67,431.4500,67,false,-,7.6,working,0,0,Pila
@@ -231,7 +232,7 @@ SR5OK,"fm, dmr, echolink, c4fm, dstar",439.2625,,431.6625,,false,-,7.6,working,5
 SR5OMZ,dmr,145.7375,,145.1375,,false,-,0.6,working,0,0,Ciechanow
 SR5OS,"fm, echolink",439.0500,67,431.4500,67,false,-,7.6,working,53.080149,21.56918,Ostroleka
 SR5P,fm,145.7250,,145.1250,127.3,false,-,0.6,working,52.543202,19.71592,Plock
-SR5PL,fm,439.1250,,431.5250,127.3,false,-,7.6,off,52.544455,19.719648,Plock
+SR5PL,fm,439.1250,,431.5250,127.3,false,-,7.6,working,52.544455,19.719648,Plock
 SR5PLZ,dmr,439.3875,,431.7875,,false,-,7.6,inprogress,52.544962,19.719402,Plock
 SR5PN,fm,145.6625,,145.0625,127.3,false,-,0.6,off,52.61766,20.353525,Plonsk
 SR5POT,fm,439.1500,127.3,431.5500,127.3,false,-,7.6,working,52.268443,21.12563,"Warszawa, ul. Chelmzynska"
@@ -323,7 +324,7 @@ SR6WS,fm,438.9250,94.8,431.3250,94.8,false,-,7.6,working,50.680321,16.485667,"Wi
 SR6WY,fm,439.0750,71.9,431.4750,71.9,false,-,7.6,working,50.465278,18.154444,"Wysoka k. Gory Sw Anny"
 SR6XWS,c4fm,439.5625,,431.9625,,false,-,7.6,working,50.680321,16.485667,"Wielka Sowa"
 SR6Z,fm,145.6375,67,145.0375,67,false,-,0.6,off,50.88405,15.329887,"Gora Swieradowiec"
-SR7ABZ,fm,145.2750,88.5,144.6750,88.5,false,-,0.6,working,0,0,Busko-Zdroj
+SR7ABZ,"fm, fmpoland",145.2750,88.5,144.6750,88.5,false,-,0.6,working,0,0,Busko-Zdroj
 SR7BU,"fm, echolink",145.2375,77,145.2375,77,false,,0,off,51.458155,18.829116,Burzenin
 SR7CKD,dmr,145.5750,,144.9750,,false,-,0.6,testing,51.774038,19.504914,Lodz
 SR7DBZ,"fm, dmr",438.5625,,430.9625,,false,-,7.6,working,0,0,Busko-Zdroj
@@ -335,7 +336,7 @@ SR7E,fm,145.7625,77,145.1625,77,true,-,0.6,working,51.267423,19.328424,Belchatow
 SR7FUS,c4fm,438.6125,,431.0125,,false,-,7.6,working,51.205645,19.435416,"Gora Kamiensk wieza EmiTel"
 SR7G,c4fm,439.0625,,431.4625,,false,-,7.6,working,50.382386,20.592706,Zlota
 SR7HYT,dmr,145.6250,,145.0250,,false,-,0.6,testing,0,0,Lodz
-SR7KGO,"fm, echolink",145.2750,88.5,433.2500,88.5,false,+,287.975,working,50.475985,20.75619,Busko-Zdroj
+SR7KGO,"fm, echolink, fmpoland",145.2750,88.5,433.2500,88.5,false,+,287.975,working,50.475985,20.75619,Busko-Zdroj
 SR7KI,"fm, fmlink",438.7250,88.5,431.1250,88.5,false,-,7.6,working,50.860322,21.048573,"RTCN Swiety Krzyz EmiTel - Lysa Gora/Nowa Slupia"
 SR7KP,fm,439.4250,88.5,431.8250,88.5,false,-,7.6,off,50.895799,20.665477,Kielce
 SR7KU,fm,438.9250,,431.3250,82.5,false,-,7.6,working,52.230773,19.375715,Kutno
