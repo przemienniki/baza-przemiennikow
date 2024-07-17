@@ -44,6 +44,6 @@ Jasne. Daj mi znać.
 
 ## Kto za tym stoi?
 
-Stronę <https://przemienniki.eu/> stworzył i rozwija [Wojtek SQ5W](http://qrz.com/db/sq8w).
+Stronę <https://przemienniki.eu/> stworzył i rozwija [Wojtek SQ8W](http://qrz.com/db/sq8w).
 
 Repozytorium na GitHub stworzył i utrzymuje [Adam SP5GOF](http://qrz.com/db/sp5gof).
