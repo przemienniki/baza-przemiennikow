@@ -46,4 +46,4 @@ Jasne. Daj mi znać.
 
 Stronę <https://przemienniki.eu/> stworzył i rozwija [Wojtek SQ5W](http://qrz.com/db/sq8w).
 
-Repozytorium stworzył i utrzymanie [Adam SP5GOF](http://qrz.com/db/sp5gof).
+Repozytorium na GitHub stworzył i utrzymuje [Adam SP5GOF](http://qrz.com/db/sp5gof).
