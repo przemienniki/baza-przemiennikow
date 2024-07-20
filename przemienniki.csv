@@ -310,7 +310,7 @@ SR6TT,fm,439.2250,67,431.6250,67,false,-,7.6,working,50.914357,16.014392,"59-420
 SR6TW,"dstar, dmr, c4fm",438.7500,,431.1500,,false,-,7.6,working,51.345552,17.497358,Chelstow
 SR6UKB,"fm, dstar",439.2625,94.8,431.6625,94.8,false,-,7.6,working,50.257005,17.428894,"Kopa Biskupia"
 SR6UKR,dmr,438.4250,,430.8250,,false,-,7.6,working,50.488055,17.969159,Krapkowice
-SR6UPK,"fm, dstar",438.5375,,430.9375,67,false,-,7.6,off,50.763544,15.639784,"50.763453, 15.639642"
+SR6UPK,"fm, dstar",438.5375,,430.9375,67,false,-,7.6,off,50.763544,15.639784,
 SR6UVO,"fm, dstar",439.3875,94.8,431.7875,94.8,false,-,7.6,working,50.751164,17.882663,"Elektrownia Opole, Brzezie k/Opola"
 SR6UVW,dstar,439.0125,,431.4125,,false,-,7.6,working,51.114443,17.067505,"Wroclaw - Dom Akademicki"
 SR6UVX,"fm, dstar",439.4125,,431.8125,103.5,false,-,7.6,working,51.470531,16.909204,Zmigrod
@@ -324,7 +324,7 @@ SR6WS,fm,438.9250,94.8,431.3250,94.8,false,-,7.6,working,50.680321,16.485667,"Wi
 SR6WY,fm,439.0750,71.9,431.4750,71.9,false,-,7.6,working,50.465278,18.154444,"Wysoka k. Gory Sw Anny"
 SR6XWS,c4fm,439.5625,,431.9625,,false,-,7.6,working,50.680321,16.485667,"Wielka Sowa"
 SR6Z,fm,145.6375,67,145.0375,67,false,-,0.6,off,50.88405,15.329887,"Gora Swieradowiec"
-SR7ABZ,"fm, fmpoland",145.2750,88.5,144.6750,88.5,false,-,0.6,working,0,0,Busko-Zdroj
+SR7ABZ,"fm, fmpoland",145.2750,88.5,144.6750,88.5,false,-,0.6,working,50.480313,20.714713,Busko-Zdroj
 SR7BU,"fm, echolink",145.2375,77,145.2375,77,false,,0,off,51.458155,18.829116,Burzenin
 SR7CKD,dmr,145.5750,,144.9750,,false,-,0.6,testing,51.774038,19.504914,Lodz
 SR7DBZ,"fm, dmr",438.5625,,430.9625,,false,-,7.6,working,0,0,Busko-Zdroj
@@ -472,7 +472,7 @@ SR9DDP,dmr,438.5500,,430.9500,,false,-,7.6,inprogress,49.435756,20.734167,"Gora 
 SR9DJK,dmr,438.3750,,430.7750,,false,-,7.6,working,50.579506,19.449523,"Wlodowice - Jura"
 SR9DKA,dmr,438.5000,,430.9000,,false,-,7.6,off,50.298203,19.005029,"Siemianowice Slaskie"
 SR9DLI,dmr,438.9750,,431.3750,,false,-,7.6,working,49.704911,20.402898,"Limanowa Lipowe"
-SR9DMR,dmr,438.4500,,430.8500,,false,-,7.6,working,0,0,Katowice
+SR9DMR,dmr,438.4500,,430.8500,,false,-,7.6,working,50.245312077121,19.026965855589,Katowice
 SR9DSK,dmr,438.5250,,430.9250,,false,-,7.6,working,49.418869,20.476544,SZCZAWNICA
 SR9DSR,dmr,145.5875,,144.9875,,false,-,0.6,off,49.738391,19.007333,Klimczok
 SR9DV,"fm, dstar, dmr, c4fm",438.3250,,430.7250,67,false,-,7.6,unverified,50.116012,19.969213,Wegrzce
