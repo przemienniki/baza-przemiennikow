@@ -84,7 +84,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 82,SR2UVT-C,145.662500,-,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Tuchola,,,,
 83,SR2UVV-B,439.362500,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,"Szubin - Jablowo Paluckie / wieza p.poz",,,,
 84,SR2VV,439.137500,-,7.600000,Tone,74.4,74.4,023,NN,023,Tone->Tone,FM,5.00,,50W,Szubin,,,,
-85,SR2VV-B,145.750000,-,0.600000,Tone,74.4,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Szubin,,,,
+85,SR2VV-B,145.750000,-,0.600000,Tone,74.4,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Szubin,,,,
 86,SR2VVV,439.337500,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Szubin,,,,
 87,SR2VVV-B,438.812500,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Szubin,,,,
 88,SR2W,145.737500,-,0.600000,Tone,82.5,82.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Wloclawek,,,,
