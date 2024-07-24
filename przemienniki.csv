@@ -83,7 +83,7 @@ SR2UVG-B,dstar,438.6875,,431.0875,,false,-,7.6,working,54.452753,18.435949,"Chwa
 SR2UVO,"dstar, dmr, c4fm",438.9625,,431.3625,,false,-,7.6,working,52.64211,19.05158,Wloclawek
 SR2UVT-C,dstar,145.6625,,145.0625,,false,-,0.6,unverified,0,0,Tuchola
 SR2UVV-B,dstar,439.3625,,431.7625,,false,-,7.6,working,52.919733,17.836519,"Szubin - Jablowo Paluckie / wieza p.poz"
-SR2VV,fm,439.1375,74.4,431.5375,74.4,false,-,7.6,working,53.016054,17.762658,Szubin
+SR2VV,"fm, extremelink",439.1375,74.4,431.5375,74.4,false,-,7.6,working,53.016123980923,17.762767069151,Szubin
 SR2VV-B,dstar,145.7500,74.4,145.1500,,false,-,0.6,working,53.016054,17.762658,Szubin
 SR2VVV,"dstar, dmr",439.3375,,431.7375,,false,-,7.6,working,53.016054,17.762658,Szubin
 SR2VVV-B,dstar,438.8125,,431.2125,,false,-,7.6,working,53.016054,17.762658,Szubin
@@ -144,7 +144,7 @@ SR3ZX,"dstar, c4fm",439.3500,,431.7500,,false,-,7.6,working,51.935511,15.527107,
 SR4ALL,echolink,430.9750,67,438.5750,67,false,+,7.6,planned,53.636169,19.460143,Zabrowo
 SR4AUU,fm,439.3375,67,431.7375,67,false,-,7.6,planned,53.840818,22.986185,Augustow
 SR4AUV,fm,145.6875,67,145.0875,67,false,-,0.6,planned,53.836155,23.004719,KO13MV
-SR4BA,"fm, echolink",438.5375,67,430.9375,67,false,-,7.6,working,54.300948,20.752344,"Kiertyny Male"
+SR4BA,"fm, echolink, extremelink",438.5375,,430.9375,67,false,-,7.6,working,54.301463334069,20.753709227318,Bartoszyce
 SR4BAU,dmr,438.3625,,430.7625,,false,-,7.6,off,53.837154,22.97915,Augustow
 SR4BI,"fm, dmr, c4fm",438.4625,67,430.8625,67,false,-,7.6,off,53.015542,23.135219,Juchnowiec
 SR4BIA,dmr,439.2500,,431.6500,,false,-,7.6,off,53.107935,23.184082,Bialystok
@@ -157,7 +157,7 @@ SR4D,"fm, echolink",145.7875,67,145.1875,67,false,-,0.6,working,53.937727,21.844
 SR4DG,c4fm,438.8625,,431.2625,,false,-,7.6,working,53.549375,19.940454,"Gora Dylewska EMITEL"
 SR4DGD,dmr,438.2500,,430.6500,,false,-,7.6,working,53.549375,19.940454,"Gora Dylewska EMITEL"
 SR4DGT,"fm, fmlink",438.5750,67,430.9750,67,false,-,7.6,working,53.549375,19.940454,"Gora Dylewska EMITEL"
-SR4DM,"fm, echolink",438.3000,67,430.7000,67,false,-,7.6,working,53.931,20.498,Podlesna
+SR4DM,"fm, echolink",438.3000,,430.7000,67,false,-,7.6,working,53.931698255447,20.498333298029,"Dobre Miasto"
 SR4DMR,fm,438.6125,,431.0125,,false,-,7.6,unverified,53.815738,22.375785,Elk
 SR4DX,dmr,439.5000,,431.9000,,false,-,7.6,working,54.060989,19.618992,Paslek
 SR4EL,"fm, fmpoland",439.0500,94.8,431.4500,94.8,false,-,7.6,working,54.189015,19.394187,Elblag
@@ -170,7 +170,7 @@ SR4LDG,fm,1298.2000,67,1270.2000,67,false,-,28,off,53.549375,19.940454,"Gora Dyl
 SR4LG,"fm, fmpoland",438.7250,67,431.1250,67,false,-,7.6,working,53.129161,22.080552,Gielczyn
 SR4LM,fm,1298.6000,,1270.6000,,true,-,28,inprogress,53.937727,21.844764,"Milki k/Gizycka EMITEL"
 SR4LO,fm,439.1000,67,431.5000,67,false,-,7.6,working,53.159484,22.091746,"Lomza - maszt"
-SR4LU,"fm, echolink",439.3750,67,431.7750,67,false,-,7.6,working,0,0,LUBAWA
+SR4LU,"fm, echolink, extremelink",439.3750,,431.7750,67,false,-,7.6,working,53.478352427375,19.764668553828,Lubawa
 SR4M,"fm, echolink",145.6000,67,145.0000,67,false,-,0.6,off,53.937727,21.844764,"Milki k/Gizycka  EMITEL"
 SR4MI,"fm, fmlink",438.7500,67,431.1500,67,false,-,7.6,working,53.937727,21.844764,"Milki k/Gizycka EMITEL"
 SR4MID,dmr,438.2250,,430.6250,,false,-,7.6,working,53.937727,21.844764,"Milki k/Gizycka EMITEL"
@@ -187,7 +187,7 @@ SR4ONT,dmr,438.2750,,430.6750,,false,-,7.6,inprogress,53.773118,20.51332,Olsztyn
 SR4ONX,"fm, dstar, c4fm",438.9500,,431.3500,,false,-,7.6,inprogress,53.773118,20.51332,Olsztyn
 SR4OS,"fm, echolink, minilink",438.4000,,430.8000,67,false,-,7.6,working,53.691595,19.96897,Ostroda
 SR4PA,fm,439.0000,94.8,431.4000,94.8,false,-,7.6,working,54.056859,19.65798,"Paslek, pow. elblaski"
-SR4PA,fm,145.7750,94.8,145.1750,94.8,false,-,0.6,working,54.020164,19.692291,Paslek
+SR4PA,"fm, extremelink",145.7750,94.8,145.1750,94.8,false,-,0.6,working,54.025593386753,19.694711469198,Paslek
 SR4RS,fm,145.7000,67,145.1000,67,false,-,0.6,working,53.134117,23.172523,Bialystok
 SR4S,fm,145.5750,67,144.9750,67,false,-,0.6,working,53.409137,23.484552,Sokolka
 SR4SA,fm,439.3750,67,431.7750,67,false,-,7.6,working,53.409137,23.484552,Sokolka
