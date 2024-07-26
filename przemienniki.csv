@@ -192,6 +192,7 @@ SR4RS,fm,145.7000,67,145.1000,67,false,-,0.6,working,53.134117,23.172523,Bialyst
 SR4S,fm,145.5750,67,144.9750,67,false,-,0.6,working,53.409137,23.484552,Sokolka
 SR4SA,fm,439.3750,67,431.7750,67,false,-,7.6,working,53.409137,23.484552,Sokolka
 SR4SN,"fm, dstar, dmr, c4fm",438.8750,,431.2750,67,false,-,7.6,working,53.564684,21.00016,Szczytno
+SR4ST,"fm, echolink, minilink",439.2000,67,431.6000,67,false,-,7.6,inprogress,53.813,19.625,Skitlawki
 SR4SU,"fm, fmlink",438.8000,67,431.2000,67,false,-,7.6,working,54.196059,22.872801,Jeleniewo
 SR4SUU,fm,438.9000,,431.3000,,false,-,7.6,working,54.098344,22.924715,"Suwalki, ul. Mickiewicza 15"
 SR4SW,"fm, atv",439.3250,,431.7250,,false,-,7.6,off,53.563494,21.219062,Swietajno
@@ -203,6 +204,7 @@ SR4UVD,dstar,439.5125,,431.9125,,false,-,7.6,working,53.549375,19.940454,"Gora D
 SR4UVE,"fm, c4fm",438.6000,,431.0000,94.8,false,-,7.6,working,54.047551,19.62193,Paslek
 SR4UVM,dstar,439.4875,,431.8875,,false,-,7.6,working,53.937727,21.844764,"Milki k/Gizycka  EMITEL"
 SR4UVN,"dstar, c4fm",439.4625,,431.8625,,false,-,7.6,working,53.770592,20.490134,Olsztyn
+SR4WR,"fm, echolink, minilink",439.0250,67,431.4250,67,false,-,7.6,inprogress,53.438,19.458,Wawrowice
 SR4X,"fm, echolink",145.6000,,145.0000,67,false,-,0.6,working,53.015657,23.135085,Juchnowiec
 SR5AWK,"tetra, fmpoland",431.6125,,431.6125,,false,,0,working,52.13117,21.055902,Warszawa
 SR5CI,fm,438.4375,,430.8375,127.3,false,-,7.6,working,52.88445,20.602777,Ciechanow
