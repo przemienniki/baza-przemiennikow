@@ -5975,7 +5975,8 @@
     {
         "callsign": "SR6RC",
         "modes": [
-            "fm"
+            "fm",
+            "fmpoland"
         ],
         "tx_frequency": 438.1000000000000227373675443232059478759765625,
         "tx_ctcss": false,
