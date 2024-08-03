@@ -233,7 +233,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 231,SR5O,145.675000,-,0.600000,Tone,127.3,127.3,023,NN,023,Tone->Tone,FM,5.00,,50W,Ostroleka,,,,
 232,SR5OK,439.262500,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Kadzidlo,,,,
 233,SR5OMZ,145.737500,-,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Ciechanow,,,,
-234,SR5OS,439.050000,-,7.600000,Tone,67.0,67.0,023,NN,023,Tone->Tone,FM,5.00,,50W,Ostroleka,,,,
+234,SR5OS,439.050000,-,7.600000,,88.5,67.0,023,NN,023,Tone->Tone,FM,5.00,,50W,Ostroleka,,,,
 235,SR5P,145.725000,-,0.600000,,88.5,127.3,023,NN,023,Tone->Tone,FM,5.00,,50W,Plock,,,,
 236,SR5PL,439.125000,-,7.600000,,88.5,127.3,023,NN,023,Tone->Tone,FM,5.00,,50W,Plock,,,,
 237,SR5PLZ,439.387500,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Plock,,,,

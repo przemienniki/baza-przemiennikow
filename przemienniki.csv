@@ -233,7 +233,7 @@ SR5NRD,fm,438.9750,,431.3750,127.3,false,-,7.6,working,52.480013,20.061837,Cybul
 SR5O,"fm, c4fm",145.6750,127.3,145.0750,127.3,false,-,0.6,working,53.080352,21.569352,Ostroleka
 SR5OK,"fm, dmr, echolink, c4fm, dstar",439.2625,,431.6625,,false,-,7.6,working,53.23469,21.45663,Kadzidlo
 SR5OMZ,dmr,145.7375,,145.1375,,false,-,0.6,working,0,0,Ciechanow
-SR5OS,"fm, echolink",439.0500,67,431.4500,67,false,-,7.6,working,53.080149,21.56918,Ostroleka
+SR5OS,"fm, echolink, fmpoland",439.0500,,431.4500,67,false,-,7.6,working,53.080149,21.56918,Ostroleka
 SR5P,fm,145.7250,,145.1250,127.3,false,-,0.6,working,52.543202,19.71592,Plock
 SR5PL,fm,439.1250,,431.5250,127.3,false,-,7.6,working,52.544455,19.719648,Plock
 SR5PLZ,dmr,439.3875,,431.7875,,false,-,7.6,inprogress,52.544962,19.719402,Plock
