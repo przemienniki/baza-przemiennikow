@@ -55,7 +55,7 @@ SR2GA,fm,438.9750,94.8,431.3750,94.8,false,-,7.6,working,54.777673,18.413129,Wla
 SR2GD,fm,439.0750,94.8,431.4750,94.8,false,-,7.6,working,54.34704,18.665793,Gdansk
 SR2GD,c4fm,439.0625,,431.4625,,false,-,7.6,off,54.34704,18.665793,Gdansk
 SR2GD-C,"fm, echolink, minilink",439.0875,94.8,431.4875,94.8,false,-,7.6,working,54.34704,18.665793,Gdansk
-SR2GDA,"fm, echolink, minilink",439.3500,94.8,431.7500,94.8,false,-,7.6,working,54.243392,18.547914,"Pruszcz Gdanski"
+SR2GDA,"fm, echolink, minilink",439.3500,94.8,431.7500,94.8,false,-,7.6,working,53.7469812,18.6755997,"Smetowo Graniczne"
 SR2GDD,dmr,438.2875,,430.6875,,false,-,7.6,working,54.354307,18.718538,Gdansk
 SR2GN,fm,439.3250,94.8,431.7250,94.8,false,-,7.6,working,54.718116,18.052215,"Gniewino - Wieza widokowa"
 SR2GR,"fm, echolink, fmpoland",439.2000,,431.6000,94.8,false,-,7.6,working,53.48156,18.75563,Grudziadz
@@ -551,18 +551,18 @@ SR9UVL,dmr,438.3625,,430.7625,,false,-,7.6,off,49.653614,19.991663,"Lubon Wlk."
 SR9UVM,dmr,439.4000,,431.8000,,false,-,7.6,working,49.958656,20.081999,"Krakow - RTCN Choragwica EMITEL"
 SR9UVO,dmr,439.3250,,431.7250,,false,-,7.6,working,50.115185,19.748343,Kochanow
 SR9UVP,dstar,439.3625,,431.7625,,false,-,7.6,working,49.7533,19.7822,"Gora Koskowa POLKOMTEL"
-SR9UVR,dmr,439.3000,,431.7000,,false,-,7.6,off,50.0655,19.9406,"Krakow - Centrum"
+SR9UVR,"fm, fmpoland",439.3000,,431.7000,94.8,false,-,7.6,working,50.0655,19.9406,"Krakow - Centrum"
 SR9UVT,dmr,439.2375,,431.6375,,false,-,7.6,working,49.7533,19.7822,"Gora Koskowa POLKOMTEL"
 SR9UVU,dstar,439.1625,,431.5625,,false,-,7.6,off,49.685473,19.031218,Skrzyczne
-SR9UVZ,"dstar, c4fm",439.2000,,431.6000,,false,-,7.6,working,49.307959,19.936232,"Gora Gubalowka EMITEL"
+SR9UVZ,"c4fm, dstar",439.2000,,431.6000,,false,-,7.6,working,49.307959,19.936232,"Gora Gubalowka EMITEL"
 SR9UW,dmr,439.0500,,431.4500,,false,-,7.6,testing,0,0,Katowice
 SR9VDM,dmr,438.2000,,430.6000,,false,-,7.6,working,49.891714,20.928624,Lichwin
 SR9VJK,dmr,438.3125,,430.7125,,false,-,7.6,working,49.417328,20.895254,"Jaworzyna Krynicka"
 SR9VJP,"dstar, dmr, c4fm",438.5875,,430.9875,,false,-,7.6,working,0,0,MUSZYNA
 SR9VO,"fm, echolink",439.0750,103.5,431.4750,103.5,false,-,7.6,off,50.033162,20.998049,Tarnow
-SR9VRJ,dmr,438.7125,,431.1125,,false,-,7.6,working,49.307959,19.936232,"Gora Gubalowka EMITEL"
+SR9VRJ,dmr,438.7125,,431.1125,,false,-,7.6,off,49.307959,19.936232,"Obiekt retransmisyjny Gliczarow Gorny Budynek OSP"
 SR9VVO,dstar,439.4375,,431.8375,,false,-,7.6,working,49.891714,20.928624,Lichwin
-SR9X,fm,145.7000,,145.1000,,false,-,0.6,working,49.307959,19.936232,"Gora Gubalowka EMITEL"
+SR9X,fm,145.7000,,145.1000,,false,-,0.6,working,49.307959,19.936232,"Obiekt Emitel RTON Gubalowka"
 SR9Z,fm,145.7375,107.2,145.1375,107.2,false,-,0.6,working,49.467256,20.553933,"Przehyba EMITEL"
 SR9ZAC,echolink,145.2875,107.2,145.2875,,false,,0,working,49.277298,19.877682,"Koscielisko (Podhale)"
 SR9ZAR,fm,439.5375,67,431.9375,67,false,-,7.6,working,49.787232,19.22477,"Gora Zar"
