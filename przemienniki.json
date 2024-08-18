@@ -3669,6 +3669,26 @@
         "qth": false
     },
     {
+        "callsign": "SR4PL",
+        "modes": [
+            "fm",
+            "echolink"
+        ],
+        "tx_frequency": 439.575,
+        "tx_ctcss": 67,
+        "rx_frequency": 431.975,
+        "rx_ctcss": 67,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            0,
+            0
+        ],
+        "qth": "Podlesna"
+    },
+    {
         "callsign": "SR4RS",
         "modes": [
             "fm"

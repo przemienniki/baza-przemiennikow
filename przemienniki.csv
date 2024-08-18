@@ -188,6 +188,7 @@ SR4ONX,"fm, dstar, c4fm",438.9500,,431.3500,,false,-,7.6,inprogress,53.773118,20
 SR4OS,"fm, echolink, minilink",438.4000,,430.8000,67,false,-,7.6,working,53.691595,19.96897,Ostroda
 SR4PA,fm,439.0000,94.8,431.4000,94.8,false,-,7.6,working,54.056859,19.65798,
 SR4PA,"fm, extremelink",145.7750,94.8,145.1750,94.8,false,-,0.6,working,54.025593386753,19.694711469198,
+SR4PL,"fm, echolink",439.5750,67,431.9750,67,false,-,7.6,working,0,0,Podlesna
 SR4RS,fm,145.7000,67,145.1000,67,false,-,0.6,working,53.134117,23.172523,
 SR4S,fm,145.5750,67,144.9750,67,false,-,0.6,working,53.409137,23.484552,
 SR4SA,fm,439.3750,67,431.7750,67,false,-,7.6,working,53.409137,23.484552,
