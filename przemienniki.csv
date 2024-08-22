@@ -280,6 +280,7 @@ SR6ACZ,fm,438.9500,103.5,431.3500,103.5,false,-,7.6,working,51.111545,17.060299,
 SR6B,fm,145.7625,77,145.1625,77,true,-,0.6,working,50.971612,14.940872,
 SR6C,"fm, fmpoland",439.2500,,431.6500,67,false,-,7.6,working,51.262989,15.564836,
 SR6DA,fm,439.1375,,431.5375,,false,-,7.6,working,51.077817,18.571536,Dalachow
+SR6DJG,dmr,439.1625,,431.5625,,false,-,7.6,planned,50.944061,15.762719,"Jezow Sudecki"
 SR6DKB,dstar,438.2625,,430.6625,,false,-,7.6,working,50.48804,17.969138,Krapkowice
 SR6DL,fm,144.9750,,144.9750,,false,,0,off,51.078464,18.571192,Dalachow
 SR6DMO,"fm, dmr",438.6250,94.8,431.0250,94.8,false,-,7.6,inprogress,0,0,

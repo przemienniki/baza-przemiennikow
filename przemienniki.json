@@ -5469,6 +5469,25 @@
         "qth": "Dalachow"
     },
     {
+        "callsign": "SR6DJG",
+        "modes": [
+            "dmr"
+        ],
+        "tx_frequency": 439.1625,
+        "tx_ctcss": false,
+        "rx_frequency": 431.5625,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "planned",
+        "coordinates": [
+            50.944061,
+            15.762719
+        ],
+        "qth": "Jezow Sudecki"
+    },
+    {
         "callsign": "SR6DKB",
         "modes": [
             "dstar"
