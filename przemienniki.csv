@@ -91,6 +91,8 @@ SR2W,fm,145.7375,82.5,145.1375,82.5,false,-,0.6,off,52.665735,19.049512,
 SR2WE,c4fm,439.2250,,431.6250,,false,-,7.6,working,54.590756,18.22903,Wejherowo
 SR2WL,fm,439.0250,,431.4250,82.5,false,-,7.6,working,52.665735,19.049512,
 SR2Z,fm,145.6500,94.8,145.0500,94.8,false,-,0.6,working,54.545013,18.535907,"Gdynia-Oksywie EMITEL"
+SR3DAB,dmr,438.5750,,430.9750,,false,-,7.6,working,52.1261,18.8562,Zalesie
+SR3DAB,"fm, fmpoland",439.5750,77,431.9750,77,false,-,7.6,working,52.1261,18.8562,Zalesie
 SR3DGW,dmr,438.5500,,430.9500,,false,-,7.6,working,52.744249,15.280424,"Gorzow Wielkopolski"
 SR3DJ,dmr,438.1250,,430.5250,,false,-,7.6,planned,52.346795,15.276266,
 SR3DMR,dmr,145.6125,,145.0125,,false,-,0.6,working,52.459156,16.905933,Poznan

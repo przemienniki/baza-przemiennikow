@@ -1783,6 +1783,45 @@
         "qth": "Gdynia-Oksywie EMITEL"
     },
     {
+        "callsign": "SR3DAB",
+        "modes": [
+            "dmr"
+        ],
+        "tx_frequency": 438.575,
+        "tx_ctcss": false,
+        "rx_frequency": 430.975,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            52.1261,
+            18.8562
+        ],
+        "qth": "Zalesie"
+    },
+    {
+        "callsign": "SR3DAB",
+        "modes": [
+            "fm",
+            "fmpoland"
+        ],
+        "tx_frequency": 439.575,
+        "tx_ctcss": 77,
+        "rx_frequency": 431.975,
+        "rx_ctcss": 77,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            52.1261,
+            18.8562
+        ],
+        "qth": "Zalesie"
+    },
+    {
         "callsign": "SR3DGW",
         "modes": [
             "dmr"
