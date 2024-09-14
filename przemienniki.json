@@ -1004,7 +1004,8 @@
     {
         "callsign": "SR2GA",
         "modes": [
-            "fm"
+            "fm",
+            "minilink"
         ],
         "tx_frequency": 438.975,
         "tx_ctcss": 94.8,
@@ -8238,6 +8239,25 @@
         "qth": "Lubartow"
     },
     {
+        "callsign": "SR8LN",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 438.675,
+        "tx_ctcss": 67,
+        "rx_frequency": 431.075,
+        "rx_ctcss": 67,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            51.24134650078683,
+            22.50971378339263
+        ],
+        "qth": "Lublin"
+    },
+    {
         "callsign": "SR8LSW",
         "modes": [
             "fm",
@@ -8274,6 +8294,25 @@
         "coordinates": [
             51.225671,
             22.623193
+        ],
+        "qth": "Lublin"
+    },
+    {
+        "callsign": "SR8LUB",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 439.4,
+        "tx_ctcss": 77,
+        "rx_frequency": 431.8,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "inprogress",
+        "coordinates": [
+            51.233682,
+            22.5368521
         ],
         "qth": "Lublin"
     },
