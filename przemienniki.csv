@@ -217,6 +217,7 @@ SR5DMRC,dmr,145.6375,,145.0375,,false,-,0.6,working,52.981,20.677617,"06-461 Koz
 SR5DV,"fm, dmr, apco25, c4fm",145.5875,127.3,144.9875,127.3,false,-,0.6,planned,52.152627,21.564994,
 SR5DVR,dmr,439.3625,,431.7625,,false,-,7.6,working,51.408264,21.113534,"RADOM - maszt Emitel"
 SR5E,fm,439.3750,,431.7750,127.3,false,-,7.6,working,52.215502,20.97256,"Warszawa-Ochota, ul. Czestochowska"
+SR5ECHO,fm,439.1500,,439.1500,,false,,0,testing,52.188,20.875,Warszawa
 SR5FUS,c4fm,438.1500,,430.5500,,false,-,7.6,working,51.421913,21.163807,Radom
 SR5FWG,"fm, c4fm",438.2500,127.3,430.6500,127.3,false,-,7.6,working,51.901273,21.614472,Garwolin
 SR5GM,fm,439.2250,127.3,431.6250,127.3,false,-,7.6,working,0,0,"Grodzisk Mazowiecki"

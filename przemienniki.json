@@ -4243,6 +4243,25 @@
         "qth": "Warszawa-Ochota, ul. Czestochowska"
     },
     {
+        "callsign": "SR5ECHO",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 439.15,
+        "tx_ctcss": false,
+        "rx_frequency": 439.15,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": false,
+        "offset": 0,
+        "status": "testing",
+        "coordinates": [
+            52.188,
+            20.875
+        ],
+        "qth": "Warszawa"
+    },
+    {
         "callsign": "SR5FUS",
         "modes": [
             "c4fm"
