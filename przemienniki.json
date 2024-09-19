@@ -3468,7 +3468,7 @@
             53.913509,
             19.928902
         ],
-        "qth": ""
+        "qth": "Morag"
     },
     {
         "callsign": "SR4MR",
@@ -4065,20 +4065,20 @@
         "qth": "Olsztyn"
     },
     {
-        "callsign": "SR4WR",
+        "callsign": "SR4WA",
         "modes": [
             "fm",
             "echolink",
             "minilink"
         ],
-        "tx_frequency": 439.025,
+        "tx_frequency": 438.125,
         "tx_ctcss": 67,
-        "rx_frequency": 431.425,
+        "rx_frequency": 430.525,
         "rx_ctcss": 67,
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "inprogress",
+        "status": "testing",
         "coordinates": [
             53.438,
             19.458

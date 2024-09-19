@@ -177,7 +177,7 @@ SR4M,"fm, echolink",145.6000,67,145.0000,67,false,-,0.6,off,53.937727,21.844764,
 SR4MI,"fm, fmlink",438.7500,67,431.1500,67,false,-,7.6,working,53.937727,21.844764,
 SR4MID,dmr,438.2250,,430.6250,,false,-,7.6,working,53.937727,21.844764,
 SR4MIT,c4fm,438.5250,,430.9250,,false,-,7.6,working,53.937727,21.844764,
-SR4MO,"fm, echolink, minilink",438.4500,,430.8500,67,false,-,7.6,working,53.913509,19.928902,
+SR4MO,"fm, echolink, minilink",438.4500,,430.8500,67,false,-,7.6,working,53.913509,19.928902,Morag
 SR4MR,fm,439.1500,67,431.5500,67,false,-,7.6,working,53.864468,21.296859,"Mragowo - wieza cisnien wodociagow"
 SR4MWO,"fm, dstar, dmr, c4fm",438.1500,67,430.5500,67,false,-,7.6,working,53.866333,21.285911,Mragowo
 SR4O,fm,145.7250,67,145.1250,,true,-,0.6,working,53.773118,20.51332,Olsztyn
@@ -208,7 +208,7 @@ SR4UVD,dstar,439.5125,,431.9125,,false,-,7.6,working,53.549375,19.940454,"Gora D
 SR4UVE,"fm, c4fm",438.6000,,431.0000,94.8,false,-,7.6,working,54.047551,19.62193,
 SR4UVM,dstar,439.4875,,431.8875,,false,-,7.6,working,53.937727,21.844764,
 SR4UVN,"dstar, c4fm",439.4625,,431.8625,,false,-,7.6,working,53.770592,20.490134,Olsztyn
-SR4WR,"fm, echolink, minilink",439.0250,67,431.4250,67,false,-,7.6,inprogress,53.438,19.458,Wawrowice
+SR4WA,"fm, echolink, minilink",438.1250,67,430.5250,67,false,-,7.6,testing,53.438,19.458,Wawrowice
 SR4X,"fm, echolink",145.6000,,145.0000,67,false,-,0.6,working,53.015657,23.135085,Juchnowiec
 SR5AWK,"tetra, fmpoland",431.6125,,431.6125,,false,,0,working,52.13117,21.055902,Warszawa
 SR5CI,fm,438.4375,,430.8375,127.3,false,-,7.6,working,52.88445,20.602777,Ciechanow
