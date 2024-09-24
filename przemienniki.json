@@ -5539,7 +5539,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "planned",
+        "status": "working",
         "coordinates": [
             50.944061,
             15.762719
@@ -6132,7 +6132,9 @@
     {
         "callsign": "SR6TT",
         "modes": [
-            "fm"
+            "fm",
+            "echolink",
+            "fmpoland"
         ],
         "tx_frequency": 439.225,
         "tx_ctcss": 67,
@@ -6146,7 +6148,7 @@
             50.914357,
             16.014392
         ],
-        "qth": "59-420 BOLKOW STARE ROCHOWICE 116"
+        "qth": "BOLKOW STARE ROCHOWICE"
     },
     {
         "callsign": "SR6TW",
