@@ -427,7 +427,7 @@ SR8LLB,"fm, echolink, fmpoland",439.2500,,431.6500,77,false,-,7.6,working,51.469
 SR8LN,fm,438.6750,67,431.0750,67,false,-,7.6,working,51.241346500787,22.509713783393,Lublin
 SR8LSW,"fm, apco25, fmpoland",439.0250,110.9,431.4250,110.9,false,-,7.6,working,51.221537,22.694369,Swidnik
 SR8LU,fm,439.0500,67,431.4500,67,false,-,7.6,working,51.225671,22.623193,Lublin
-SR8LUB,fm,439.4000,77,431.8000,,false,-,7.6,inprogress,51.233682,22.5368521,Lublin
+SR8LUB,fm,439.4000,77,431.8000,77,false,-,7.6,testing,51.235083,22.522944,Lublin
 SR8LUF,c4fm,439.5250,,431.9250,,false,-,7.6,working,51.225671,22.623193,Lublin
 SR8LW,"fm, echolink, fmpoland",438.7000,,431.1000,67,false,-,7.6,working,51.928906,22.360262,
 SR8LWB,fm,439.1375,67,431.5375,67,false,-,7.6,inprogress,0,0,Bogdanka
@@ -459,6 +459,7 @@ SR8UWD,"dstar, dmr, c4fm",438.5125,,430.9125,,false,-,7.6,working,51.558078,23.5
 SR8V,fm,145.6125,,145.0125,103.5,false,-,0.6,working,49.81322,21.350967,
 SR8WD,fm,438.9750,103.5,431.3750,103.5,false,-,7.6,working,51.548785,23.548394,
 SR8X,fm,145.7000,118.8,145.1000,118.8,false,-,0.6,off,51.351915,22.187133,
+SR8Y,fm,145.7250,123,145.1250,123,false,-,0.6,working,49.96557,21.99461,Rzeszow
 SR8Z,fm,145.7500,77,145.1500,77,false,-,0.6,working,50.607544,23.261111,"Feliksowka k/Zamoscia"
 SR8ZA,fm,439.2750,77,431.6750,77,false,-,7.6,working,50.607544,23.261111,"Feliksowka k/Zamoscia"
 SR9A,fm,145.7750,,145.1750,,true,-,0.6,working,49.884356,20.911473,

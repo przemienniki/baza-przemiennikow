@@ -8326,14 +8326,14 @@
         "tx_frequency": 439.4,
         "tx_ctcss": 77,
         "rx_frequency": 431.8,
-        "rx_ctcss": false,
+        "rx_ctcss": 77,
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "inprogress",
+        "status": "testing",
         "coordinates": [
-            51.233682,
-            22.5368521
+            51.235083,
+            22.522944
         ],
         "qth": "Lublin"
     },
@@ -8941,6 +8941,25 @@
             22.187133
         ],
         "qth": false
+    },
+    {
+        "callsign": "SR8Y",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 145.725,
+        "tx_ctcss": 123,
+        "rx_frequency": 145.125,
+        "rx_ctcss": 123,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 0.6,
+        "status": "working",
+        "coordinates": [
+            49.96557,
+            21.99461
+        ],
+        "qth": "Rzeszow"
     },
     {
         "callsign": "SR8Z",
