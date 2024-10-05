@@ -6080,7 +6080,7 @@
         "tx_frequency": 438.1,
         "tx_ctcss": false,
         "rx_frequency": 430.5,
-        "rx_ctcss": 67,
+        "rx_ctcss": 103.5,
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,

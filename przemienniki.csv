@@ -311,7 +311,7 @@ SR6OO,"fm, dstar, echolink",439.2500,123,431.6500,123,false,-,7.6,working,50.880
 SR6OP,"fm, dmr",439.3250,94.8,431.7250,94.8,false,-,7.6,working,50.675862,17.956617,Opole
 SR6PS,"fm, echolink",438.8000,94.8,431.2000,94.8,false,-,7.6,working,50.842723,16.487099,Swidnica
 SR6R,fm,145.6000,103.5,145.0000,103.5,false,-,0.6,working,51.106164,17.04304,
-SR6RC,"fm, fmpoland",438.1000,,430.5000,67,false,-,7.6,testing,51.11472,16.95503,
+SR6RC,"fm, fmpoland",438.1000,,430.5000,103.5,false,-,7.6,testing,51.11472,16.95503,
 SR6RWS,dmr,438.2000,,430.6000,,false,-,7.6,working,50.680321,16.485667,"Wielka Sowa"
 SR6S,fm,145.7875,94.8,145.1875,94.8,false,-,0.6,working,50.680321,16.485667,"Wielka Sowa"
 SR6TT,"fm, echolink, fmpoland",439.2250,67,431.6250,67,false,-,7.6,working,50.914357,16.014392,"BOLKOW STARE ROCHOWICE"
