@@ -460,7 +460,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 458,SR8V,145.612500,-,0.600000,,88.5,103.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
 459,SR8WD,438.975000,-,7.600000,Tone,103.5,103.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
 460,SR8X,145.700000,-,0.600000,Tone,118.8,118.8,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
-461,SR8Y,145.725000,-,0.600000,Tone,123.0,123.0,023,NN,023,Tone->Tone,FM,5.00,,50W,Rzeszow,,,,
+461,SR8Y,145.650000,-,0.600000,Tone,123.0,123.0,023,NN,023,Tone->Tone,FM,5.00,,50W,Rzeszow,,,,
 462,SR8Z,145.750000,-,0.600000,Tone,77.0,77.0,023,NN,023,Tone->Tone,FM,5.00,,50W,"Feliksowka k/Zamoscia",,,,
 463,SR8ZA,439.275000,-,7.600000,Tone,77.0,77.0,023,NN,023,Tone->Tone,FM,5.00,,50W,"Feliksowka k/Zamoscia",,,,
 464,SR9A,145.775000,-,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,

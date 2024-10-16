@@ -8966,9 +8966,9 @@
         "modes": [
             "fm"
         ],
-        "tx_frequency": 145.725,
+        "tx_frequency": 145.65,
         "tx_ctcss": 123,
-        "rx_frequency": 145.125,
+        "rx_frequency": 145.05,
         "rx_ctcss": 123,
         "rx_1750": false,
         "duplex": "-",
