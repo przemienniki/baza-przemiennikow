@@ -4281,6 +4281,25 @@
         "qth": "Warszawa"
     },
     {
+        "callsign": "SR5ECHO",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 145.7,
+        "tx_ctcss": false,
+        "rx_frequency": 145.7,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": false,
+        "offset": 0,
+        "status": "testing",
+        "coordinates": [
+            52.188,
+            20.875
+        ],
+        "qth": "WARSZAWA"
+    },
+    {
         "callsign": "SR5FUS",
         "modes": [
             "c4fm"
