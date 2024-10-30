@@ -501,7 +501,7 @@ SR9GP,"fm, echolink",438.6500,107.2,431.0500,107.2,false,-,7.6,testing,49.724771
 SR9GR,"fm, dstar, dmr, c4fm",438.5375,162.2,430.9375,162.2,false,-,7.6,working,49.664762,21.152389,"Gorlice, maszt Emitel na Gorze Cmentarnej"
 SR9IVG,"fm, echolink",70.2600,107.2,70.2600,,false,,0,off,49.719395,20.454785,
 SR9J,fm,145.7875,123,145.1875,123,false,-,0.6,working,50.814463,19.12091,Czestochowa
-SR9JG,fm,439.4625,71.9,431.8625,71.9,false,-,7.6,inprogress,0,0,Czestochowa
+SR9JG,"fm, fmpoland",439.4625,71.9,431.8625,71.9,false,-,7.6,working,50.70491,19.28541,Biskupice
 SR9JK,"fm, echolink",438.8000,,431.2000,94.8,false,-,7.6,working,50.539655,19.428821,
 SR9JSR,dmr,439.3125,,431.7125,,false,-,7.6,off,0,0,"Jastrzebie Zdroj"
 SR9K,fm,145.7500,,145.1500,103.5,false,-,0.6,working,49.9731,20.033849,"Siercza k/Wieliczki"

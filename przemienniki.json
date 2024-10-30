@@ -9760,7 +9760,8 @@
     {
         "callsign": "SR9JG",
         "modes": [
-            "fm"
+            "fm",
+            "fmpoland"
         ],
         "tx_frequency": 439.4625,
         "tx_ctcss": 71.9,
@@ -9769,12 +9770,12 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "inprogress",
+        "status": "working",
         "coordinates": [
-            0,
-            0
+            50.70491,
+            19.28541
         ],
-        "qth": "Czestochowa"
+        "qth": "Biskupice"
     },
     {
         "callsign": "SR9JK",

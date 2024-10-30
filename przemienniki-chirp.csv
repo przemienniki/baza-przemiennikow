@@ -501,7 +501,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 499,SR9GR,438.537500,-,7.600000,Tone,162.2,162.2,023,NN,023,Tone->Tone,FM,5.00,,50W,"Gorlice maszt Emitel na Gorze Cmentarnej",,,,
 500,SR9IVG,70.260000,,0.000000,Tone,107.2,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
 501,SR9J,145.787500,-,0.600000,Tone,123.0,123.0,023,NN,023,Tone->Tone,FM,5.00,,50W,Czestochowa,,,,
-502,SR9JG,439.462500,-,7.600000,Tone,71.9,71.9,023,NN,023,Tone->Tone,FM,5.00,,50W,Czestochowa,,,,
+502,SR9JG,439.462500,-,7.600000,Tone,71.9,71.9,023,NN,023,Tone->Tone,FM,5.00,,50W,Biskupice,,,,
 503,SR9JK,438.800000,-,7.600000,,88.5,94.8,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
 504,SR9JSR,439.312500,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,"Jastrzebie Zdroj",,,,
 505,SR9K,145.750000,-,0.600000,,88.5,103.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"Siercza k/Wieliczki",,,,
