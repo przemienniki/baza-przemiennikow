@@ -6261,7 +6261,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "off",
+        "status": "working",
         "coordinates": [
             50.763544,
             15.639784
