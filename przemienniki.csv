@@ -371,6 +371,7 @@ SR7SAN,dmr,439.0625,,431.4625,,false,-,7.6,working,50.593202,21.591853,Koprzywni
 SR7SC,"fm, echolink",439.3250,118.8,431.7250,118.8,false,-,7.6,working,51.974983,20.144561,Skierniewice
 SR7SI,"fm, echolink",438.8250,77,431.2250,77,false,-,7.6,working,51.598809,18.697218,Sieradz
 SR7ST,"fm, fmlink",439.1500,110.9,431.5500,110.9,false,-,7.6,working,50.553432,21.076508,"Staszow - wieza   Polkomtel Sp. z o.o. - Plus"
+SR7SZ,fm,439.1875,110.9,431.5875,110.9,false,-,7.6,working,50.55339,21.07638,"Staszow - wieza Polkomtel Sp. z o.o."
 SR7T,dmr,438.8750,,431.2750,,false,-,7.6,working,50.382386,20.592706,
 SR7TCW,fm,438.1250,,145.3000,,false,-,292.825,working,50.382386,20.592706,
 SR7TM,"fm, c4fm",438.6750,118.8,431.0750,118.8,false,-,7.6,working,51.548173,20.045956,"Tomaszow Mazowiecki"

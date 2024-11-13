@@ -7238,6 +7238,25 @@
         "qth": "Staszow - wieza   Polkomtel Sp. z o.o. - Plus"
     },
     {
+        "callsign": "SR7SZ",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 439.1875,
+        "tx_ctcss": 110.9,
+        "rx_frequency": 431.5875,
+        "rx_ctcss": 110.9,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            50.55339,
+            21.07638
+        ],
+        "qth": "Staszow - wieza Polkomtel Sp. z o.o."
+    },
+    {
         "callsign": "SR7T",
         "modes": [
             "dmr"
