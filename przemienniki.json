@@ -5892,6 +5892,25 @@
         "qth": "Legnica"
     },
     {
+        "callsign": "SR6LDV",
+        "modes": [
+            "dmr"
+        ],
+        "tx_frequency": 438.25,
+        "tx_ctcss": false,
+        "rx_frequency": 430.65,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            51.20057,
+            16.209077
+        ],
+        "qth": "Legnica"
+    },
+    {
         "callsign": "SR6LWS",
         "modes": [
             "fm",
@@ -6122,7 +6141,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "testing",
+        "status": "working",
         "coordinates": [
             51.11472,
             16.95503
