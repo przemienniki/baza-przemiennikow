@@ -3332,6 +3332,25 @@
         "qth": false
     },
     {
+        "callsign": "SR4LIN",
+        "modes": [
+            "c4fm"
+        ],
+        "tx_frequency": 438.65,
+        "tx_ctcss": false,
+        "rx_frequency": 431.05,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            53.7906638,
+            19.5364853
+        ],
+        "qth": false
+    },
+    {
         "callsign": "SR4LM",
         "modes": [
             "fm"
