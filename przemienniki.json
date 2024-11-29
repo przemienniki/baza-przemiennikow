@@ -1842,6 +1842,25 @@
         "qth": "Zalesie"
     },
     {
+        "callsign": "SR3DAB",
+        "modes": [
+            "c4fm"
+        ],
+        "tx_frequency": 439.05,
+        "tx_ctcss": false,
+        "rx_frequency": 431.45,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            52.1261,
+            52.1261
+        ],
+        "qth": "Zalesie"
+    },
+    {
         "callsign": "SR3DGW",
         "modes": [
             "dmr"
@@ -6788,6 +6807,25 @@
             0
         ],
         "qth": false
+    },
+    {
+        "callsign": "SR7KFX",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 439.25,
+        "tx_ctcss": 85.4,
+        "rx_frequency": 431.65,
+        "rx_ctcss": 88.5,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            52.00964,
+            18.81998
+        ],
+        "qth": "Wielenin"
     },
     {
         "callsign": "SR7KGO",
