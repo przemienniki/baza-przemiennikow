@@ -513,7 +513,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 511,SR9KAO,439.212500,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Tarnow,,,,
 512,SR9KD,438.950000,-,7.600000,,88.5,71.9,023,NN,023,Tone->Tone,FM,5.00,,50W,Sosnowiec,,,,
 513,SR9KM,438.975000,-,7.600000,,88.5,71.9,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
-514,SR9KR,439.275000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Krakow,,,,
+514,SR9KR,439.275000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,"Choragwica k/Krakowa",,,,
 515,SR9KS,438.900000,-,7.600000,Tone,103.5,103.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"Siercza k/Wieliczki",,,,
 516,SR9KW,439.025000,-,7.600000,Tone,67.0,67.0,023,NN,023,Tone->Tone,FM,5.00,,50W,Pogrzebien,,,,
 517,SR9L,145.687500,-,0.600000,Tone,107.2,107.2,023,NN,023,Tone->Tone,FM,5.00,,50W,"Limanowa Lipowe",,,,

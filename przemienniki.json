@@ -10004,12 +10004,12 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "off",
+        "status": "working",
         "coordinates": [
-            50.066357,
-            19.940202
+            49.959167,
+            20.088
         ],
-        "qth": "Krakow"
+        "qth": "Choragwica k\/Krakowa"
     },
     {
         "callsign": "SR9KS",

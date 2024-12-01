@@ -513,7 +513,7 @@ SR9K,fm,145.7500,,145.1500,103.5,false,-,0.6,working,49.9731,20.033849,"Siercza 
 SR9KAO,"fm, dstar, dmr, apco25, c4fm",439.2125,,431.6125,,false,-,7.6,planned,50.03314,20.998133,Tarnow
 SR9KD,"fm, c4fm",438.9500,,431.3500,71.9,false,-,7.6,working,50.312352,19.198926,Sosnowiec
 SR9KM,fm,438.9750,,431.3750,71.9,false,-,7.6,working,50.57099703963,18.650322797483,
-SR9KR,dstar,439.2750,,431.6750,,false,-,7.6,off,50.066357,19.940202,Krakow
+SR9KR,dstar,439.2750,,431.6750,,false,-,7.6,working,49.959167,20.088,"Choragwica k/Krakowa"
 SR9KS,fm,438.9000,103.5,431.3000,103.5,false,-,7.6,working,49.9731,20.033849,"Siercza k/Wieliczki"
 SR9KW,fm,439.0250,67,431.4250,67,false,-,7.6,off,0,0,Pogrzebien
 SR9L,fm,145.6875,107.2,145.0875,107.2,false,-,0.6,working,49.704911,20.402898,"Limanowa Lipowe"
