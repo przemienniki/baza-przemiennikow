@@ -423,7 +423,7 @@ SR8JS,fm,438.8000,103.5,431.2000,,true,-,7.6,working,49.81322,21.350967,
 SR8K,"fm, c4fm",145.6000,71.9,145.0000,71.9,false,-,0.6,off,49.885216,22.38942,Drohobyczka-Dubiecko
 SR8KP,fm,439.5750,71.9,431.9750,71.9,false,-,7.6,working,50.221148,22.421792,Lezajsk-Giedlarowa
 SR8KR,"fm, fmlink",438.6250,103.5,431.0250,103.5,false,-,7.6,off,49.756122,21.812941,"RTCN Sucha Gora/Krosno EmiTel-Czarnorzeki 90"
-SR8KSR,"fm, c4fm",438.9250,103.5,431.3250,103.5,false,-,7.6,testing,49.697373,21.752431,Krosno
+SR8KSR,"fm, c4fm",438.9250,103.5,431.3250,103.5,false,-,7.6,working,49.697373,21.752431,Krosno
 SR8L,fm,145.6750,67,145.0750,67,false,-,0.6,working,51.00481,22.65351,"RTCN Lublin / Bozy Dar (Emitel)"
 SR8LBD,fm,438.5750,77,430.9750,77,false,-,7.6,working,51.00481,22.65351,"RTCN Lublin / Bozy Dar (Emitel)"
 SR8LBL,fm,29.6700,,29.5700,71.9,false,-,0.1,working,50.221007,22.421881,Giedlarowa
@@ -564,7 +564,7 @@ SR9UVJ-B,dstar,439.5000,,431.9000,,false,-,7.6,working,49.417864,20.895578,"Kryn
 SR9UVJ-C,dstar,145.7875,,145.1875,,false,-,0.6,working,49.417864,20.895578,"Krynica Zdroj - Jaworzyna (gorna stacja kolejki gondolowej)"
 SR9UVL,dmr,438.3625,,430.7625,,false,-,7.6,off,49.653614,19.991663,"Lubon Wlk."
 SR9UVM,dmr,439.4000,,431.8000,,false,-,7.6,working,49.958656,20.081999,"Krakow - RTCN Choragwica EMITEL"
-SR9UVO,dmr,439.3250,,431.7250,,false,-,7.6,working,50.115185,19.748343,Kochanow
+SR9UVO,dmr,439.3250,,431.7250,,false,-,7.6,off,50.115185,19.748343,Kochanow
 SR9UVP,dstar,439.3625,,431.7625,,false,-,7.6,working,49.7533,19.7822,"Gora Koskowa POLKOMTEL"
 SR9UVR,"fm, fmpoland",439.3000,,431.7000,94.8,false,-,7.6,working,49.349622,20.053072,"Gliczarow Gorny Maszt OSP"
 SR9UVT,dmr,439.2375,,431.6375,,false,-,7.6,working,49.7533,19.7822,"Gora Koskowa POLKOMTEL"
