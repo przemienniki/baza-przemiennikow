@@ -10462,7 +10462,8 @@
     {
         "callsign": "SR9RT",
         "modes": [
-            "fm"
+            "fm",
+            "fmpoland"
         ],
         "tx_frequency": 145.6375,
         "tx_ctcss": 103.5,
@@ -10471,7 +10472,67 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 0.6,
-        "status": "off",
+        "status": "working",
+        "coordinates": [
+            49.719344,
+            20.454852
+        ],
+        "qth": false
+    },
+    {
+        "callsign": "SR9RT",
+        "modes": [
+            "fm",
+            "fmpoland"
+        ],
+        "tx_frequency": 438.6375,
+        "tx_ctcss": 103.5,
+        "rx_frequency": 431.0375,
+        "rx_ctcss": 103.5,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            49.719344,
+            20.454852
+        ],
+        "qth": false
+    },
+    {
+        "callsign": "SR9RT",
+        "modes": [
+            "fm",
+            "fmpoland"
+        ],
+        "tx_frequency": 51.99,
+        "tx_ctcss": 103.5,
+        "rx_frequency": 51.39,
+        "rx_ctcss": 103.5,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 0.6,
+        "status": "working",
+        "coordinates": [
+            49.719344,
+            20.454852
+        ],
+        "qth": false
+    },
+    {
+        "callsign": "SR9RT",
+        "modes": [
+            "fm",
+            "fmpoland"
+        ],
+        "tx_frequency": 29.66,
+        "tx_ctcss": 103.5,
+        "rx_frequency": 29.56,
+        "rx_ctcss": 103.5,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 0.1,
+        "status": "working",
         "coordinates": [
             49.719344,
             20.454852
@@ -11233,6 +11294,25 @@
             20.928624
         ],
         "qth": "Lichwin"
+    },
+    {
+        "callsign": "SR9W",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 145.6,
+        "tx_ctcss": 103.5,
+        "rx_frequency": 145,
+        "rx_ctcss": 103.5,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 0.6,
+        "status": "inprogress",
+        "coordinates": [
+            49.77869539777453,
+            20.396280558875176
+        ],
+        "qth": "Makowica - Kamionna"
     },
     {
         "callsign": "SR9X",

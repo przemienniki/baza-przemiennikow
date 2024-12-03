@@ -537,7 +537,10 @@ SR9RAC,fm,439.5750,67,431.9750,67,false,-,7.6,working,50.120982,18.153277,Strzyb
 SR9RC,c4fm,438.6750,67,431.0750,67,false,-,7.6,working,0,0,Pogrzebien
 SR9RR,"fm, dmr",439.1000,107.2,431.5000,107.2,false,-,7.6,inprogress,0,0,
 SR9RSR,dmr,438.3375,,430.7375,,false,-,7.6,working,50.087687,18.534451,Rybnik
-SR9RT,fm,145.6375,103.5,145.0375,103.5,false,-,0.6,off,49.719344,20.454852,
+SR9RT,"fm, fmpoland",145.6375,103.5,145.0375,103.5,false,-,0.6,working,49.719344,20.454852,
+SR9RT,"fm, fmpoland",438.6375,103.5,431.0375,103.5,false,-,7.6,working,49.719344,20.454852,
+SR9RT,"fm, fmpoland",51.9900,103.5,51.3900,103.5,false,-,0.6,working,49.719344,20.454852,
+SR9RT,"fm, fmpoland",29.6600,103.5,29.5600,103.5,false,-,0.1,working,49.719344,20.454852,
 SR9S,fm,145.7750,67,145.1750,67,false,-,0.6,working,50.01602,19.10627,Wola
 SR9S,"fm, c4fm",439.4125,67,431.8125,67,false,-,7.6,working,50.01657,19.106255,Wola
 SR9SA,"fm, echolink",439.4500,67,431.8500,67,false,-,7.6,planned,49.760432,19.001325,
@@ -577,6 +580,7 @@ SR9VJP,"dstar, dmr, c4fm",438.5875,,430.9875,,false,-,7.6,working,0,0,MUSZYNA
 SR9VO,"fm, echolink",439.0750,103.5,431.4750,103.5,false,-,7.6,off,50.033162,20.998049,Tarnow
 SR9VRJ,dmr,438.7125,,431.1125,,false,-,7.6,off,49.307959,19.936232,
 SR9VVO,dstar,439.4375,,431.8375,,false,-,7.6,working,49.891714,20.928624,Lichwin
+SR9W,fm,145.6000,103.5,145.0000,103.5,false,-,0.6,inprogress,49.778695397775,20.396280558875,"Makowica - Kamionna"
 SR9X,fm,145.7000,,145.1000,,false,-,0.6,working,49.307959,19.936232,
 SR9Z,fm,145.7375,107.2,145.1375,107.2,false,-,0.6,working,49.467256,20.553933,"Przehyba EMITEL"
 SR9ZAC,echolink,145.2875,107.2,145.2875,,false,,0,working,49.277298,19.877682,"Koscielisko (Podhale)"
