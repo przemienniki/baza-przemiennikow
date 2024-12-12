@@ -385,6 +385,25 @@
         "qth": "Szczecin"
     },
     {
+        "callsign": "SR1TET",
+        "modes": [
+            "tetra"
+        ],
+        "tx_frequency": 431.625,
+        "tx_ctcss": false,
+        "rx_frequency": 430.025,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 1.6,
+        "status": "working",
+        "coordinates": [
+            53.3425,
+            15.0252
+        ],
+        "qth": "Stargard"
+    },
+    {
         "callsign": "SR1TS",
         "modes": [
             "fm"
