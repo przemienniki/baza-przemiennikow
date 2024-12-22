@@ -6833,7 +6833,7 @@
             "fm"
         ],
         "tx_frequency": 439.25,
-        "tx_ctcss": 85.4,
+        "tx_ctcss": 88.5,
         "rx_frequency": 431.65,
         "rx_ctcss": 88.5,
         "rx_1750": false,

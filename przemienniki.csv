@@ -350,7 +350,7 @@ SR7E,fm,145.7625,77,145.1625,77,true,-,0.6,working,51.267423,19.328424,
 SR7FUS,c4fm,438.6125,,431.0125,,false,-,7.6,working,51.205645,19.435416,"Gora Kamiensk wieza EmiTel"
 SR7G,c4fm,439.0625,,431.4625,,false,-,7.6,working,50.382386,20.592706,
 SR7HYT,dmr,145.6250,,145.0250,,false,-,0.6,testing,0,0,
-SR7KFX,fm,439.2500,85.4,431.6500,88.5,false,-,7.6,working,52.00964,18.81998,Wielenin
+SR7KFX,fm,439.2500,88.5,431.6500,88.5,false,-,7.6,working,52.00964,18.81998,Wielenin
 SR7KGO,"fm, echolink, fmpoland",145.2750,88.5,433.2500,88.5,false,+,287.975,working,50.475985,20.75619,Busko-Zdroj
 SR7KI,"fm, fmlink",438.7250,88.5,431.1250,88.5,false,-,7.6,working,50.860322,21.048573,
 SR7KP,fm,439.4250,88.5,431.8250,88.5,false,-,7.6,off,50.895799,20.665477,Kielce
