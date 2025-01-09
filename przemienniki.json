@@ -4300,7 +4300,8 @@
     {
         "callsign": "SR5E",
         "modes": [
-            "fm"
+            "fm",
+            "fmpoland"
         ],
         "tx_frequency": 439.375,
         "tx_ctcss": false,
@@ -4311,8 +4312,8 @@
         "offset": 7.6,
         "status": "working",
         "coordinates": [
-            52.215502,
-            20.97256
+            52.210948,
+            20.9751663
         ],
         "qth": ""
     },
@@ -4826,7 +4827,8 @@
     {
         "callsign": "SR5POT",
         "modes": [
-            "fm"
+            "fm",
+            "fmpoland"
         ],
         "tx_frequency": 439.15,
         "tx_ctcss": 127.3,
