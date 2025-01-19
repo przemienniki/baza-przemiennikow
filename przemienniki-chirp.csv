@@ -560,7 +560,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 558,SR9TRZ,438.575000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Trzebinia,,,,
 559,SR9UCZ,439.087500,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Czestochowa,,,,
 560,SR9UPZ,438.587500,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Kleczany,,,,
-561,SR9US,438.125000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,"Gora Czantoria",,,,
+561,SR9US,438.125000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,"Ustron Gora Czantoria",,,,
 562,SR9UV,439.337500,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Wodowice,,,,
 563,SR9UVC,438.625000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Krakow,,,,
 564,SR9UVJ,439.500000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,"Jaworzyna Krynicka",,,,

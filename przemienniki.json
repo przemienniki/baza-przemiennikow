@@ -2940,8 +2940,7 @@
         "callsign": "SR4BI",
         "modes": [
             "fm",
-            "dmr",
-            "c4fm"
+            "dmr"
         ],
         "tx_frequency": 438.4625,
         "tx_ctcss": 67,
@@ -2950,7 +2949,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "off",
+        "status": "working",
         "coordinates": [
             53.015542,
             23.135219
@@ -4163,7 +4162,8 @@
         "callsign": "SR4X",
         "modes": [
             "fm",
-            "echolink"
+            "echolink",
+            "fmpoland"
         ],
         "tx_frequency": 145.6,
         "tx_ctcss": false,
@@ -10923,8 +10923,8 @@
         "offset": 7.6,
         "status": "working",
         "coordinates": [
-            0,
-            0
+            49.68322911315249,
+            18.82001072644063
         ],
         "qth": ""
     },
