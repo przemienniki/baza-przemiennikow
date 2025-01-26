@@ -2381,15 +2381,16 @@
     {
         "callsign": "SR3OW",
         "modes": [
+            "fm",
             "c4fm"
         ],
         "tx_frequency": 439.05,
-        "tx_ctcss": 103.5,
-        "rx_frequency": 431.45,
-        "rx_ctcss": 103.5,
+        "tx_ctcss": false,
+        "rx_frequency": 431.75,
+        "rx_ctcss": false,
         "rx_1750": false,
         "duplex": "-",
-        "offset": 7.6,
+        "offset": 7.3,
         "status": "off",
         "coordinates": [
             0,
@@ -6949,17 +6950,17 @@
         "modes": [
             "fm"
         ],
-        "tx_frequency": 439.375,
-        "tx_ctcss": false,
-        "rx_frequency": 431.775,
+        "tx_frequency": 439.575,
+        "tx_ctcss": 77,
+        "rx_frequency": 431.975,
         "rx_ctcss": 77,
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "off",
+        "status": "testing",
         "coordinates": [
-            51.72395,
-            19.434011
+            51.58721,
+            19.16252
         ],
         "qth": ""
     },
