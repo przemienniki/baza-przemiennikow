@@ -16,6 +16,8 @@ Skrypt został umieszczony w repozytorium jedynie w celu zapewnienia przejrzysto
 
 JSON, CSV i CSV dla programu Chirp. Szczegóły: <https://przemienniki.eu/eksport-danych/>.
 
+Oprócz tego, w pliku `przemienniki.net.sql` dostępny jest zrzut bazy zgromadzonej przez stronę *przemienniki.net*, wykonany ręcznie 30 stycznia 2025 r. Plik jest w formacie SQL – do zaimportowania np. do MySQL.
+
 ## Jak mogę zgłosić zmianę w bazie?
 
 Wyłącznie przez stronę <https://przemienniki.eu/>. Tak długo, jak strona jest funkcjonalna, nie chcemy tworzyć kopii bazy (choć oczywiście nic nie stoi na przeszkodzie, żeby ktoś sobie sforkował repozytorium i używał go tak, jak uważa za stosowne). Oficjalna baza znajduje się na stronie *przemienniki.eu*. Tutaj znajduje się jedynie kopia.
