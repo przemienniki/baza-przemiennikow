@@ -5470,6 +5470,26 @@
         "qth": ""
     },
     {
+        "callsign": "SR5ZOC",
+        "modes": [
+            "fm",
+            "fmpoland"
+        ],
+        "tx_frequency": 145.587,
+        "tx_ctcss": 127.3,
+        "rx_frequency": 145.587,
+        "rx_ctcss": 127.3,
+        "rx_1750": false,
+        "duplex": false,
+        "offset": 0,
+        "status": "working",
+        "coordinates": [
+            52.24647369639846,
+            22.74075708215567
+        ],
+        "qth": ""
+    },
+    {
         "callsign": "SR5ZQ",
         "modes": [
             "dstar"
