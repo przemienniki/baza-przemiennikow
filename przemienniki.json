@@ -1820,6 +1820,25 @@
         "qth": ""
     },
     {
+        "callsign": "SR3A",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 145.6625,
+        "tx_ctcss": 79.7,
+        "rx_frequency": 145.0625,
+        "rx_ctcss": 79.7,
+        "rx_1750": true,
+        "duplex": "-",
+        "offset": 0.6,
+        "status": "planned",
+        "coordinates": [
+            52.346795,
+            15.276266
+        ],
+        "qth": ""
+    },
+    {
         "callsign": "SR3DAB",
         "modes": [
             "dmr"
@@ -1908,7 +1927,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "planned",
+        "status": "working",
         "coordinates": [
             52.346795,
             15.276266
@@ -2082,7 +2101,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "planned",
+        "status": "working",
         "coordinates": [
             52.346795,
             15.276266
@@ -2106,6 +2125,25 @@
         "coordinates": [
             51.967538,
             17.498297
+        ],
+        "qth": ""
+    },
+    {
+        "callsign": "SR3JX",
+        "modes": [
+            "c4fm"
+        ],
+        "tx_frequency": 439.25,
+        "tx_ctcss": false,
+        "rx_frequency": 431.65,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "planned",
+        "coordinates": [
+            52.346795,
+            15.276266
         ],
         "qth": ""
     },
@@ -2601,7 +2639,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "planned",
+        "status": "working",
         "coordinates": [
             52.346795,
             15.276266
@@ -2810,7 +2848,7 @@
         "tx_ctcss": 79.7,
         "rx_frequency": 431.15,
         "rx_ctcss": 79.7,
-        "rx_1750": true,
+        "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
         "status": "working",
@@ -10759,8 +10797,7 @@
     {
         "callsign": "SR9SS",
         "modes": [
-            "fm",
-            "fmlink"
+            "fm"
         ],
         "tx_frequency": 439.1,
         "tx_ctcss": 71.9,
