@@ -582,14 +582,14 @@
         "modes": [
             "dmr"
         ],
-        "tx_frequency": 439.05,
+        "tx_frequency": 438.6875,
         "tx_ctcss": false,
-        "rx_frequency": 431.45,
+        "rx_frequency": 431.0875,
         "rx_ctcss": false,
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "testing",
+        "status": "working",
         "coordinates": [
             53.947183,
             15.53354
@@ -1860,13 +1860,12 @@
     {
         "callsign": "SR3DAB",
         "modes": [
-            "fm",
-            "fmpoland"
+            "dstar"
         ],
         "tx_frequency": 439.575,
-        "tx_ctcss": 77,
+        "tx_ctcss": false,
         "rx_frequency": 431.975,
-        "rx_ctcss": 77,
+        "rx_ctcss": false,
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
