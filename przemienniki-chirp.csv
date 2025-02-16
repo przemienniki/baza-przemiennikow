@@ -132,7 +132,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 130,SR3PO,439.200000,-,7.600000,Tone,110.9,110.9,023,NN,023,Tone->Tone,FM,5.00,,50W,Poznan,,,,
 131,SR3PX,438.900000,-,7.600000,Tone,110.9,110.9,023,NN,023,Tone->Tone,FM,5.00,,50W,Somowo,,,,
 132,SR3RR,438.825000,-,7.600000,Tone,103.5,103.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Rawicz,,,,
-133,SR3SN,439.100000,-,7.600000,Tone,100.0,100.0,023,NN,023,Tone->Tone,FM,5.00,,50W,Swiebodzin,,,,
+133,SR3SN,439.100000,-,7.600000,,88.5,100.0,023,NN,023,Tone->Tone,FM,5.00,,50W,Swiebodzin,,,,
 134,SR3T,145.637500,-,0.600000,Tone,110.9,110.9,023,NN,023,Tone->Tone,FM,5.00,,50W,Malanow,,,,
 135,SR3TU,439.150000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Turek,,,,
 136,SR3UVJ,438.412500,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,"RTCN Jemioow/agow maszt EmiTel",,,,

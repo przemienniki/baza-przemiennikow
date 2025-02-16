@@ -580,7 +580,7 @@
     {
         "callsign": "SR1WR",
         "modes": [
-            "dmr"
+            "c4fm"
         ],
         "tx_frequency": 438.6875,
         "tx_ctcss": false,
@@ -1533,7 +1533,8 @@
     {
         "callsign": "SR2T",
         "modes": [
-            "fm"
+            "fm",
+            "fmpoland"
         ],
         "tx_frequency": 145.775,
         "tx_ctcss": false,
@@ -2572,10 +2573,11 @@
         "callsign": "SR3SN",
         "modes": [
             "fm",
-            "echolink"
+            "echolink",
+            "fmpoland"
         ],
         "tx_frequency": 439.1,
-        "tx_ctcss": 100,
+        "tx_ctcss": false,
         "rx_frequency": 431.5,
         "rx_ctcss": 100,
         "rx_1750": false,
@@ -3823,7 +3825,8 @@
         "callsign": "SR4PL",
         "modes": [
             "fm",
-            "echolink"
+            "echolink",
+            "extremelink"
         ],
         "tx_frequency": 439.575,
         "tx_ctcss": 67,
@@ -3834,8 +3837,8 @@
         "offset": 7.6,
         "status": "working",
         "coordinates": [
-            0,
-            0
+            53.938,
+            20.458
         ],
         "qth": ""
     },
@@ -4435,7 +4438,8 @@
     {
         "callsign": "SR5GM",
         "modes": [
-            "fm"
+            "fm",
+            "fmpoland"
         ],
         "tx_frequency": 439.225,
         "tx_ctcss": 127.3,
@@ -4808,7 +4812,8 @@
     {
         "callsign": "SR5PL",
         "modes": [
-            "fm"
+            "fm",
+            "fmpoland"
         ],
         "tx_frequency": 439.125,
         "tx_ctcss": false,
@@ -6505,7 +6510,8 @@
     {
         "callsign": "SR6WB",
         "modes": [
-            "fm"
+            "fm",
+            "fmpoland"
         ],
         "tx_frequency": 439.3625,
         "tx_ctcss": false,
@@ -7254,7 +7260,8 @@
     {
         "callsign": "SR7OS",
         "modes": [
-            "fm"
+            "fm",
+            "fmpoland"
         ],
         "tx_frequency": 439.475,
         "tx_ctcss": 71.9,
@@ -8220,7 +8227,8 @@
     {
         "callsign": "SR8JR",
         "modes": [
-            "fm"
+            "fm",
+            "fmpoland"
         ],
         "tx_frequency": 439.25,
         "tx_ctcss": false,
@@ -8610,7 +8618,8 @@
         "callsign": "SR8MBR",
         "modes": [
             "fm",
-            "echolink"
+            "echolink",
+            "fmpoland"
         ],
         "tx_frequency": 50.54,
         "tx_ctcss": 71.9,
@@ -8768,7 +8777,8 @@
         "callsign": "SR8RSC",
         "modes": [
             "fm",
-            "echolink"
+            "echolink",
+            "fmpoland"
         ],
         "tx_frequency": 145.2875,
         "tx_ctcss": 71.9,
@@ -10306,7 +10316,8 @@
     {
         "callsign": "SR9NSC",
         "modes": [
-            "echolink"
+            "echolink",
+            "fmpoland"
         ],
         "tx_frequency": 145.3375,
         "tx_ctcss": 103.5,
