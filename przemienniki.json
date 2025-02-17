@@ -597,6 +597,25 @@
         "qth": ""
     },
     {
+        "callsign": "SR1WR",
+        "modes": [
+            "dmr"
+        ],
+        "tx_frequency": 439.05,
+        "tx_ctcss": false,
+        "rx_frequency": 431.45,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            53.947183,
+            15.53354
+        ],
+        "qth": ""
+    },
+    {
         "callsign": "SR1WU",
         "modes": [
             "fm"
