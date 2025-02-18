@@ -8206,6 +8206,26 @@
         "qth": ""
     },
     {
+        "callsign": "SR8FM",
+        "modes": [
+            "fm",
+            "fmpoland"
+        ],
+        "tx_frequency": 434.4,
+        "tx_ctcss": false,
+        "rx_frequency": 434.4,
+        "rx_ctcss": 77,
+        "rx_1750": false,
+        "duplex": false,
+        "offset": 0,
+        "status": "working",
+        "coordinates": [
+            50.0582753,
+            21.3722899
+        ],
+        "qth": ""
+    },
+    {
         "callsign": "SR8FWD",
         "modes": [
             "c4fm"
