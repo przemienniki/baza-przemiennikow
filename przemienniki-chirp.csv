@@ -354,7 +354,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 352,SR7FUS,438.612500,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,"Gora Kamiensk wieza EmiTel",,,,
 353,SR7G,439.062500,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Zota,,,,
 354,SR7HYT,145.625000,-,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,odz,,,,
-355,SR7KFX,439.250000,-,7.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Wielenin,,,,
+355,SR7KFX,438.262500,-,7.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Wielenin,,,,
 356,SR7KGO,145.275000,+,287.975000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Busko-Zdroj,,,,
 357,SR7KI,438.725000,-,7.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"RTCN Swiety Krzyz EmiTel - ysa Gora/Nowa Supia",,,,
 358,SR7KP,439.425000,-,7.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Kielce,,,,
