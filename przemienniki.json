@@ -2046,7 +2046,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "working",
+        "status": "off",
         "coordinates": [
             52.346795,
             15.276266
@@ -2796,7 +2796,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "working",
+        "status": "off",
         "coordinates": [
             52.346795,
             15.276266
@@ -3021,8 +3021,8 @@
         "offset": 7.6,
         "status": "working",
         "coordinates": [
-            52.346301,
-            15.275602
+            52.346795,
+            15.276266
         ],
         "qth": "RTCN Jemioow\/agow maszt EmiTel",
         "locator": "JO72PI"

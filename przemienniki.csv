@@ -99,7 +99,7 @@ SR3DAB,dmr,438.575,,430.975,,,-,7.6,working,52.1261,18.8562,Zalesie,JO92KD
 SR3DAB,dstar,439.575,,431.975,,,-,7.6,working,52.1261,18.8562,Zalesie,JO92KD
 SR3DAB,c4fm,439.05,,431.45,,,-,7.6,working,52.1261,18.8562,Zalesie,JO92KD
 SR3DGW,dmr,438.55,,430.95,,,-,7.6,working,52.744249,15.280424,"Gorzow Wielkopolski",JO72PR
-SR3DJ,dmr,438.125,,430.525,,,-,7.6,working,52.346795,15.276266,"RTCN Jemioow/agow maszt EmiTel",JO72PI
+SR3DJ,dmr,438.125,,430.525,,,-,7.6,off,52.346795,15.276266,"RTCN Jemioow/agow maszt EmiTel",JO72PI
 SR3DMR,dmr,145.6125,,145.0125,,,-,0.6,working,52.459156,16.905933,Poznan,JO82KL
 SR3DOS,"dstar, dmr, c4fm",438.2875,,430.6875,,,-,7.6,working,51.659738,17.79778,"Ostrow Wielkopolski",JO81VP
 SR3DRW,dmr,438.3375,,430.7375,,,-,7.6,working,51.60944,16.867769,Rawicz,JO81KO
@@ -136,7 +136,7 @@ SR3RR,fm,438.825,103.5,431.225,103.5,,-,7.6,off,51.605659,16.860366,Rawicz,JO81K
 SR3SN,"fm, echolink, fmpoland",439.1,,431.5,100,,-,7.6,working,52.2444,15.4992,Swiebodzin,JO72RF
 SR3T,fm,145.6375,110.9,145.0375,110.9,,-,0.6,working,51.961434,18.414342,Malanow,JO91EX
 SR3TU,fm,439.15,,431.55,,,-,7.6,off,0,0,Turek,JO92FA
-SR3UVJ,dstar,438.4125,,430.8125,,,-,7.6,working,52.346795,15.276266,"RTCN Jemioow/agow maszt EmiTel",JO72PI
+SR3UVJ,dstar,438.4125,,430.8125,,,-,7.6,off,52.346795,15.276266,"RTCN Jemioow/agow maszt EmiTel",JO72PI
 SR3UVL,dstar,439.2375,,431.6375,,,-,7.6,working,51.844136,16.594246,Leszno,JO81HU
 SR3UVP,dmr,439.4375,,431.8375,,,-,7.6,inprogress,52.459156,16.905933,Poznan,JO82KL
 SR3WT,fm,439.325,110.9,431.725,110.9,,-,7.6,working,52.11856,16.116998,Wolsztyn,JO82BC
@@ -147,7 +147,7 @@ SR3Z,fm,145.7125,71.9,145.1125,71.9,,-,0.6,working,51.935511,15.527107,"Zielona 
 SR3ZBZ,"dmr, c4fm",438.3625,,430.7625,,,-,7.6,working,52.998288,16.906704,Chodziez,JO82KX
 SR3ZF,fm,1298.5,,1270.5,,,-,28,working,51.92698,15.488042,"Zielona Gora",JO71RW
 SR3ZG,fm,439.075,203.5,431.475,203.5,,-,7.6,working,51.92698,15.488042,"Zielona Gora",JO71RW
-SR3ZJ,fm,438.75,79.7,431.15,79.7,,-,7.6,working,52.346301,15.275602,"RTCN Jemioow/agow maszt EmiTel",JO72PI
+SR3ZJ,fm,438.75,79.7,431.15,79.7,,-,7.6,working,52.346795,15.276266,"RTCN Jemioow/agow maszt EmiTel",JO72PI
 SR3ZX,"dstar, c4fm",439.35,,431.75,,,-,7.6,working,51.935511,15.527107,"Zielona Gora",JO71SW
 SR4ALL,echolink,430.975,67,438.575,67,,+,7.6,planned,53.636169,19.460143,Zabrowo,JO93RP
 SR4AUU,fm,439.3375,67,431.7375,67,,-,7.6,planned,53.840818,22.986185,Augustow,KO13LU
