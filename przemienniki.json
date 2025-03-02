@@ -5829,8 +5829,8 @@
         "offset": 0,
         "status": "working",
         "coordinates": [
-            52.24647369639846,
-            22.74075708215567
+            52.2552778,
+            22.7458333
         ],
         "qth": "Nowosielce",
         "locator": "KO12IF"
@@ -8834,6 +8834,26 @@
         "locator": "KO11HA"
     },
     {
+        "callsign": "SR8L6M",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 51.81,
+        "tx_ctcss": 67,
+        "rx_frequency": 51.21,
+        "rx_ctcss": 67,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 0.6,
+        "status": "working",
+        "coordinates": [
+            51.225671,
+            22.623193
+        ],
+        "qth": "Lublin",
+        "locator": "KO11hf"
+    },
+    {
         "callsign": "SR8LBD",
         "modes": [
             "fm"
@@ -11719,10 +11739,10 @@
         "offset": 0.6,
         "status": "working",
         "coordinates": [
-            49.417864,
-            20.895578
+            49.4174,
+            20.89528
         ],
-        "qth": "Krynica Zdroj - Jaworzyna (gorna stacja kolejki gondolowej)",
+        "qth": "Jaworzyna Krynicka",
         "locator": "KN09KK"
     },
     {
