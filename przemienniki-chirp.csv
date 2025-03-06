@@ -491,7 +491,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 489,SR9CZ,439.175000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Czestochowa,,,,
 490,SR9CZC,145.337500,,0.000000,Tone,107.2,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Czestochowa,,,,
 491,SR9CZE,439.562500,-,7.600000,,88.5,67.0,023,NN,023,Tone->Tone,FM,5.00,,50W,Czestochowa,,,,
-492,SR9D,145.675000,-,0.600000,,88.5,71.9,023,NN,023,Tone->Tone,DV,5.00,,50W,Bedzin,,,,
+492,SR9D,145.675000,-,0.600000,,88.5,71.9,023,NN,023,Tone->Tone,FM,5.00,,50W,Bedzin,,,,
 493,SR9DBN,438.475000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Mysowice,,,,
 494,SR9DBY,439.150000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Bytom,,,,
 495,SR9DDP,438.550000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,"Gora Kicarz",,,,

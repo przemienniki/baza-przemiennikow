@@ -10064,6 +10064,7 @@
     {
         "callsign": "SR9D",
         "modes": [
+            "fm",
             "c4fm"
         ],
         "tx_frequency": 145.675,
