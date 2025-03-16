@@ -586,7 +586,7 @@ SR9VDM,dmr,438.2,,430.6,,,-,7.6,working,49.891714,20.928624,Lichwin,KN09LV
 SR9VJK,dmr,438.3125,,430.7125,,,-,7.6,working,49.417328,20.895254,"Jaworzyna Krynicka",KN09KK
 SR9VJP,"dstar, dmr, c4fm",438.5875,,430.9875,,,-,7.6,working,0,0,MUSZYNA,KN09LI
 SR9VO,"fm, echolink",439.075,103.5,431.475,103.5,,-,7.6,off,50.033162,20.998049,Tarnow,KO00LA
-SR9VRJ,dmr,438.7125,,431.1125,,,-,7.6,testing,49.307959,19.936232,"Obiekt Emitel RTON Gubaowka",JN99XH
+SR9VRJ,dmr,438.7125,,431.1125,,,-,7.6,working,49.307959,19.936232,"Obiekt Emitel RTON Gubaowka",JN99XH
 SR9VVO,dstar,439.4375,,431.8375,,,-,7.6,working,49.891714,20.928624,Lichwin,KN09LV
 SR9W,fm,145.6,103.5,145,103.5,,-,0.6,inprogress,49.778695397775,20.396280558875,"Makowica - Kamionna",KN09es
 SR9X,fm,145.7,,145.1,,,-,0.6,working,49.307959,19.936232,"Obiekt Emitel RTON Gubaowka",JN99XH

@@ -12023,7 +12023,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "testing",
+        "status": "working",
         "coordinates": [
             49.307959,
             19.936232
