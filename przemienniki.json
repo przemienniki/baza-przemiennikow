@@ -2055,6 +2055,28 @@
         "locator": "JO72PI"
     },
     {
+        "callsign": "SR3DKA",
+        "modes": [
+            "dmr",
+            "c4fm",
+            "dstar"
+        ],
+        "tx_frequency": 438.4,
+        "tx_ctcss": false,
+        "rx_frequency": 430.8,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            51.7423,
+            18.0959
+        ],
+        "qth": "Kalisz",
+        "locator": "JO91BR"
+    },
+    {
         "callsign": "SR3DMR",
         "modes": [
             "dmr"
@@ -2292,8 +2314,8 @@
         "offset": 0.6,
         "status": "working",
         "coordinates": [
-            51.763809,
-            18.081964
+            51.763816,
+            18.081671
         ],
         "qth": "Kalisz",
         "locator": "JO91AS"
@@ -3387,7 +3409,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "working",
+        "status": "off",
         "coordinates": [
             53.931698255447344,
             20.49833329802923
@@ -4267,6 +4289,28 @@
         ],
         "qth": "Swietajno",
         "locator": "KO03ON"
+    },
+    {
+        "callsign": "SR4T",
+        "modes": [
+            "fm",
+            "echolink",
+            "extremelink"
+        ],
+        "tx_frequency": 145.7625,
+        "tx_ctcss": 94.8,
+        "rx_frequency": 145.1625,
+        "rx_ctcss": 94.8,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 0.6,
+        "status": "working",
+        "coordinates": [
+            54.2789608,
+            20.9415585
+        ],
+        "qth": "Turcz",
+        "locator": "KO04LG"
     },
     {
         "callsign": "SR4U",
@@ -5295,7 +5339,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "off",
+        "status": "working",
         "coordinates": [
             52.178734,
             21.056765
@@ -6009,7 +6053,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "working",
+        "status": "off",
         "coordinates": [
             50.944061,
             15.762719
@@ -7394,14 +7438,14 @@
         "modes": [
             "fm"
         ],
-        "tx_frequency": 439.575,
+        "tx_frequency": 439.55,
         "tx_ctcss": 77,
-        "rx_frequency": 431.975,
+        "rx_frequency": 431.95,
         "rx_ctcss": 77,
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "testing",
+        "status": "working",
         "coordinates": [
             51.58721,
             19.16252
@@ -9921,6 +9965,27 @@
         "locator": "JN99MQ"
     },
     {
+        "callsign": "SR9BB",
+        "modes": [
+            "fm",
+            "fmlink"
+        ],
+        "tx_frequency": 438.5375,
+        "tx_ctcss": 67,
+        "rx_frequency": 430.9375,
+        "rx_ctcss": 67,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "planned",
+        "coordinates": [
+            49.755244,
+            19.002927
+        ],
+        "qth": "Schroniska PTTK Szyndzielnia",
+        "locator": "JN99MS"
+    },
+    {
         "callsign": "SR9BN",
         "modes": [
             "dmr"
@@ -11425,7 +11490,8 @@
     {
         "callsign": "SR9SS",
         "modes": [
-            "fm"
+            "fm",
+            "fmlink"
         ],
         "tx_frequency": 439.1,
         "tx_ctcss": 71.9,
@@ -12077,9 +12143,9 @@
             "fm"
         ],
         "tx_frequency": 145.7,
-        "tx_ctcss": false,
+        "tx_ctcss": 94.8,
         "rx_frequency": 145.1,
-        "rx_ctcss": false,
+        "rx_ctcss": 94.8,
         "rx_1750": false,
         "duplex": "-",
         "offset": 0.6,

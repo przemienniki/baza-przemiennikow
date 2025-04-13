@@ -100,6 +100,7 @@ SR3DAB,dstar,439.575,,431.975,,,-,7.6,working,52.1261,18.8562,Zalesie,JO92KD
 SR3DAB,c4fm,439.05,,431.45,,,-,7.6,working,52.1261,18.8562,Zalesie,JO92KD
 SR3DGW,dmr,438.55,,430.95,,,-,7.6,working,52.744249,15.280424,"Gorzow Wielkopolski",JO72PR
 SR3DJ,dmr,438.125,,430.525,,,-,7.6,off,52.346795,15.276266,"RTCN Jemioow/agow maszt EmiTel",JO72PI
+SR3DKA,"dmr, c4fm, dstar",438.4,,430.8,,,-,7.6,working,51.7423,18.0959,Kalisz,JO91BR
 SR3DMR,dmr,145.6125,,145.0125,,,-,0.6,working,52.459156,16.905933,Poznan,JO82KL
 SR3DOS,"dstar, dmr, c4fm",438.2875,,430.6875,,,-,7.6,working,51.659738,17.79778,"Ostrow Wielkopolski",JO81VP
 SR3DRW,dmr,438.3375,,430.7375,,,-,7.6,working,51.60944,16.867769,Rawicz,JO81KO
@@ -111,7 +112,7 @@ SR3GW,fm,438.95,,431.35,77,1,-,7.6,working,52.740422,15.277767,"Gorzow Wielkopol
 SR3J,"fm, fmlink",439.5,79.7,431.9,79.7,,-,7.6,working,52.346795,15.276266,"RTCN Jemioow/agow maszt EmiTel",JO72PI
 SR3JA,"fm, echolink",438.975,110.9,431.375,110.9,,-,7.6,working,51.967538,17.498297,"Jarocin, ul. Kosciuszki 43",JO81RX
 SR3JX,c4fm,439.25,,431.65,,,-,7.6,planned,52.346795,15.276266,"RTCN Jemioow/agow maszt EmiTel",JO72PI
-SR3K,fm,145.75,,145.15,,1,-,0.6,working,51.763809,18.081964,Kalisz,JO91AS
+SR3K,fm,145.75,,145.15,,1,-,0.6,working,51.763816,18.081671,Kalisz,JO91AS
 SR3KA,dmr,439.375,,431.775,,,-,7.6,working,51.958967,16.162937,Kaszczor,JO81BX
 SR3KEP,"fm, dmr, c4fm",438.4375,,430.8375,103.5,,-,7.6,off,51.297605,18.00335,Kepno,JO91AH
 SR3KH,fm,438.8,,431.2,,,-,7.6,working,52.208723,18.629383,"Koo - ZST",JO92HF
@@ -165,7 +166,7 @@ SR4D,"fm, echolink",145.7875,67,145.1875,67,,-,0.6,working,53.937727,21.844764,"
 SR4DG,c4fm,438.8625,,431.2625,,,-,7.6,working,53.549375,19.940454,"Gora Dylewska EMITEL",JO93XN
 SR4DGD,dmr,438.25,,430.65,,,-,7.6,working,53.549375,19.940454,"Gora Dylewska EMITEL",JO93XN
 SR4DGT,"fm, fmlink",438.575,67,430.975,67,,-,7.6,working,53.549375,19.940454,"Gora Dylewska EMITEL",JO93XN
-SR4DM,"fm, echolink",438.3,,430.7,67,,-,7.6,working,53.931698255447,20.498333298029,"Dobre Miasto",KO03FW
+SR4DM,"fm, echolink",438.3,,430.7,67,,-,7.6,off,53.931698255447,20.498333298029,"Dobre Miasto",KO03FW
 SR4DMR,fm,438.6125,,431.0125,,,-,7.6,unverified,53.815738,22.375785,Ek,KO13ET
 SR4DX,dmr,439.5,,431.9,,,-,7.6,working,54.060989,19.618992,Pasek,JO94TB
 SR4EL,"fm, fmpoland",439.05,94.8,431.45,94.8,,-,7.6,working,54.189015,19.394187,Elblag,JO94QE
@@ -208,6 +209,7 @@ SR4SUU,fm,438.9,,431.3,,,-,7.6,working,54.098344,22.924715,"Suwaki, ul. Mickiewi
 SR4SUW,"fm, fmpoland",434.7,,434.7,67,,,0,working,54.1213,22.947,Suwaki,KO14LC
 SR4SW,"fm, atv",439.325,,431.725,,,-,7.6,off,53.563494,21.219062,Swietajno,KO03ON
 SR4SWE,dstar,439.45,,431.85,,,-,7.6,off,53.563494,21.219062,Swietajno,KO03ON
+SR4T,"fm, echolink, extremelink",145.7625,94.8,145.1625,94.8,,-,0.6,working,54.2789608,20.9415585,Turcz,KO04LG
 SR4U,fm,145.725,,145.125,,,-,0.6,working,53.108847,23.121939,Biaystok,KO13NC
 SR4UBI,"dstar, dmr",439.425,,431.825,,,-,7.6,working,53.132887,23.138298,Biaystok,KO13ND
 SR4UG,"dstar, dmr, c4fm",438.775,,431.175,,,-,7.6,working,0,0,Giby,KO14QA
@@ -257,7 +259,7 @@ SR5R,fm,145.6,,145,127.3,,-,0.6,working,52.158506,20.817633,Pruszkow,KO02JD
 SR5RA,fm,438.925,118.8,431.325,118.8,,-,7.6,working,51.355087,21.099805,Radom,KO01NI
 SR5RAD,"fm, fmpoland",145.7875,118.8,145.1875,118.8,,-,0.6,working,51.408958,21.114788,"RADOM - maszt Emitel",KO01NJ
 SR5RK,"fm, dstar",438.75,118.8,431.15,118.8,,-,7.6,working,51.358587,20.572206,"Kozowiec - Przysucha RTCN",KO01GI
-SR5RR,"fm, echolink, fmpoland",439.275,127.3,431.675,127.3,,-,7.6,off,52.178734,21.056765,"Warszawa - Mokotow, ul. Iberyjska",KO02ME
+SR5RR,"fm, echolink, fmpoland",439.275,127.3,431.675,127.3,,-,7.6,working,52.178734,21.056765,"Warszawa - Mokotow, ul. Iberyjska",KO02ME
 SR5S,"fm, echolink, fmpoland",145.6125,127.3,145.0125,127.3,,-,0.6,working,52.178818,22.271183,Siedlce,KO12DE
 SR5SE,"fm, c4fm",438.75,127.3,431.15,127.3,,-,7.6,working,52.178818,22.271183,Siedlce,KO12DE
 SR5SQ,c4fm,438.9875,,431.3875,,,-,7.6,off,52.007496,20.589476,"Krze Duze",KO02HA
@@ -292,7 +294,7 @@ SR6ACZ,fm,438.95,103.5,431.35,103.5,,-,7.6,working,51.111545,17.060299,Wrocaw,JO
 SR6B,fm,145.7625,77,145.1625,77,1,-,0.6,working,50.971612,14.940872,"Dziaoszyn - stacja meteo",JO70LX
 SR6C,"fm, fmpoland",439.25,,431.65,67,,-,7.6,working,51.262989,15.564836,Bolesawiec,JO71SG
 SR6DA,fm,439.1375,,431.5375,,,-,7.6,working,51.077817,18.571536,Dalachow,JO91GB
-SR6DJG,dmr,439.1625,,431.5625,,,-,7.6,working,50.944061,15.762719,"Jezow Sudecki",JO70VW
+SR6DJG,dmr,439.1625,,431.5625,,,-,7.6,off,50.944061,15.762719,"Jezow Sudecki",JO70VW
 SR6DKB,dstar,438.2625,,430.6625,,,-,7.6,working,50.48804,17.969138,Krapkowice,JO80XL
 SR6DL,fm,144.975,,144.975,,,,0,off,51.078464,18.571192,Dalachow,JO91GB
 SR6DMO,"fm, dmr",438.625,94.8,431.025,94.8,,-,7.6,inprogress,0,0,Oawa,JO80PW
@@ -360,7 +362,7 @@ SR7KI,"fm, fmlink",438.725,88.5,431.125,88.5,,-,7.6,working,50.860322,21.048573,
 SR7KP,fm,439.425,88.5,431.825,88.5,,-,7.6,off,50.895799,20.665477,Kielce,KO00HV
 SR7KU,fm,438.925,,431.325,82.5,,-,7.6,working,52.230773,19.375715,Kutno,JO92QF
 SR7L,fm,145.675,,145.075,77,,-,0.6,working,51.774319,19.506038,odz,JO91SS
-SR7LA,fm,439.575,77,431.975,77,,-,7.6,testing,51.58721,19.16252,ask,JO91NO
+SR7LA,fm,439.55,77,431.95,77,,-,7.6,working,51.58721,19.16252,ask,JO91NO
 SR7LD,fm,439.075,77,431.475,77,,-,7.6,working,51.77415,19.505409,odz,JO91SS
 SR7LDA,dmr,438.45,,430.85,,,-,7.6,working,51.780793,19.533964,odz,JO91SS
 SR7LDD,dmr,438.225,,430.625,,,-,7.6,working,51.746115,19.450216,odz,JO91RR
@@ -484,6 +486,7 @@ SR9AE,fm,438.825,103.5,431.225,103.5,,-,7.6,working,49.766749,20.059544,"Obserwa
 SR9AMS,"fm, echolink, c4fm",145.2375,107.2,145.2375,,,,0,off,49.71934,20.45485,"(zmiana lokalizacji)",KN09FR
 SR9ASR,"fm, dmr",438.3,74.4,430.7,74.4,,-,7.6,working,49.787232,19.22477,"Gora Zar",JN99OS
 SR9B,"fm, c4fm",145.7125,,145.1125,67,1,-,0.6,off,49.685223,19.029843,Skrzyczne,JN99MQ
+SR9BB,"fm, fmlink",438.5375,67,430.9375,67,,-,7.6,planned,49.755244,19.002927,"Schroniska PTTK Szyndzielnia",JN99MS
 SR9BN,dmr,439.225,,431.625,,,-,7.6,working,50.319022,19.115659,Bedzin,JO90NH
 SR9BSR,"fm, dmr",438.25,,430.65,74.4,,-,7.6,working,49.760053,19.001327,"Gora Szyndzielnia",JN99MS
 SR9C,fm,145.6,103.5,145,103.5,,-,0.6,off,50.066357,19.940202,Krakow,JO90XB
@@ -557,7 +560,7 @@ SR9SE,"fm, c4fm",439.2,,431.6,71.9,,-,7.6,off,50.318897,19.115915,Bedzin,JO90NH
 SR9SIM,echolink,145.3375,79.7,145.3375,79.7,,,0,off,50.26633,19.1375,Sosnowiec,JO90NG
 SR9SIM,dstar,439.0375,,431.4375,,,-,7.6,inprogress,0,0,Sosnowiec,
 SR9SK,"fm, c4fm",439.375,67,431.775,67,,-,7.6,working,49.685223,19.029843,Skrzyczne,JN99MQ
-SR9SS,fm,439.1,71.9,431.5,71.9,,-,7.6,working,50.298203,19.005029,"Siemianowice Slaskie",JO90MH
+SR9SS,"fm, fmlink",439.1,71.9,431.5,71.9,,-,7.6,working,50.298203,19.005029,"Siemianowice Slaskie",JO90MH
 SR9SZ,c4fm,439.15,,431.55,,,-,7.6,working,50.298203,19.005029,"Siemianowice Slaskie",JO90MH
 SR9TB,fm,438.775,103.5,431.175,103.5,1,-,7.6,working,49.884356,20.911473,"Gora Wa - Tarnow",KN09KV
 SR9TG,"fm, echolink",145.6125,71.9,145.0125,71.9,,-,0.6,off,0,0,"Tarnowskie Gory",JO90KK
@@ -589,7 +592,7 @@ SR9VO,"fm, echolink",439.075,103.5,431.475,103.5,,-,7.6,off,50.033162,20.998049,
 SR9VRJ,dmr,438.7125,,431.1125,,,-,7.6,working,49.307959,19.936232,"Obiekt Emitel RTON Gubaowka",JN99XH
 SR9VVO,dstar,439.4375,,431.8375,,,-,7.6,working,49.891714,20.928624,Lichwin,KN09LV
 SR9W,fm,145.6,103.5,145,103.5,,-,0.6,inprogress,49.778695397775,20.396280558875,"Makowica - Kamionna",KN09es
-SR9X,fm,145.7,,145.1,,,-,0.6,working,49.307959,19.936232,"Obiekt Emitel RTON Gubaowka",JN99XH
+SR9X,fm,145.7,94.8,145.1,94.8,,-,0.6,working,49.307959,19.936232,"Obiekt Emitel RTON Gubaowka",JN99XH
 SR9Z,fm,145.7375,107.2,145.1375,107.2,,-,0.6,working,49.467256,20.553933,"Przehyba EMITEL",KN09GL
 SR9ZAC,echolink,145.2875,107.2,145.2875,,,,0,working,49.277298,19.877682,"Koscielisko (Podhale)",JN99WG
 SR9ZAR,fm,439.5375,67,431.9375,67,,-,7.6,working,49.787232,19.22477,"Gora Zar",JN99OS
