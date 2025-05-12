@@ -62,6 +62,7 @@ SR2GDA,"fm, echolink, minilink",439.35,94.8,431.75,94.8,,-,7.6,working,53.746981
 SR2GDD,dmr,438.2875,,430.6875,,,-,7.6,working,54.354307,18.718538,Gdansk,JO94II
 SR2GN,fm,439.325,94.8,431.725,94.8,,-,7.6,working,54.718116,18.052215,"Gniewino - Wieza widokowa",JO94AR
 SR2GR,"fm, echolink, fmpoland",439.2,,431.6,94.8,,-,7.6,working,53.48156,18.75563,Grudziadz,JO93JL
+SR2GRU,fm,145.6875,,145.0875,94.8,,-,0.6,working,53.45833,18.75,Grudziadz,JO93JL
 SR2GS,fm,438.55,94.8,430.95,94.8,,-,7.6,working,54.452753,18.435949,Chwaszczyno,JO94FK
 SR2GT,"fm, fmlink",439.025,94.8,431.425,94.8,,-,7.6,working,54.452753,18.435949,"Chwaszczyno EMITEL",JO94FK
 SR2IN,"dmr, c4fm",438.2375,,430.6375,,,-,7.6,working,52.793999748006,18.2608156263,Inowrocaw,JO92DT
@@ -198,7 +199,7 @@ SR4ONX,"fm, dstar, c4fm",438.95,,431.35,,,-,7.6,inprogress,53.773118,20.51332,Ol
 SR4OS,"fm, echolink, minilink",438.4,,430.8,67,,-,7.6,working,53.691595,19.96897,Ostroda,JO93XQ
 SR4PA,fm,439,94.8,431.4,94.8,,-,7.6,working,54.056859,19.65798,"Pasek, pow. elblaski",JO94TB
 SR4PA,"fm, extremelink",145.775,94.8,145.175,94.8,,-,0.6,working,54.025593386753,19.694711469198,Pasek,JO94UA
-SR4PL,"fm, echolink, extremelink",439.575,67,431.975,67,,-,7.6,working,53.938,20.458,Podlesna,KO03FW
+SR4PL,"fm, echolink, extremelink",439.575,67,430.175,67,,-,9.4,working,53.938,20.458,"Podlesna 66",KO03FW
 SR4RS,fm,145.7,67,145.1,67,,-,0.6,working,53.134117,23.172523,Biaystok,KO13OD
 SR4S,fm,145.575,67,144.975,67,,-,0.6,working,53.409137,23.484552,Sokoka,KO13RJ
 SR4SA,fm,439.375,67,431.775,67,,-,7.6,working,53.409137,23.484552,Sokoka,KO13RJ
@@ -457,6 +458,7 @@ SR8RD,dmr,438.9625,,431.3625,,,-,7.6,working,50.553361,22.074279,"Stalowa Wola",
 SR8RJS,"fm, dmr",438.5,103.5,430.9,103.5,,-,7.6,inprogress,49.81322,21.350967,Opacie,KN09QT
 SR8RSC,"fm, echolink, fmpoland",145.2875,71.9,145.2875,71.9,,,0,working,49.9914,21.941145,Boguchwaa,KN09XX
 SR8RZ,"fm, c4fm",439.25,71.9,431.65,71.9,,-,7.6,off,0,0,Rzeszow,KN19AX
+SR8RZE,"fm, fmpoland",439.2875,71.9,431.6875,71.9,,-,7.6,working,50.062275,21.954842,Rzeszow,KO00XB
 SR8S,fm,145.7125,123,145.1125,123,,-,0.6,working,51.215067,22.70218,Swidnik,KO11IF
 SR8SD,fm,439.325,123,431.725,123,,-,7.6,working,51.215067,22.70218,Swidnik,KO11IF
 SR8SM,fm,438.65,123,431.05,123,,-,7.6,off,50.072277,21.712224,Debica,KO00UB
@@ -533,11 +535,13 @@ SR9LI,"fm, echolink",438.675,,431.075,,1,-,7.6,working,49.773212,20.385038,Pasie
 SR9LK,fm,1298.5,,1270.5,,,-,28,working,49.9731,20.033849,"Siercza k/Wieliczki",KN09AX
 SR9NJ,fm,1298.15,,1270.15,,,-,28,working,49.417864,20.895578,"Krynica Zdroj, Jaworzyna (gorna stacja kolejki gondolowej",KN09KK
 SR9NJ,"fm, echolink",438.7,103.5,431.1,103.5,,-,7.6,working,49.417864,20.895578,"Krynica Zdroj, Jaworzyna (gorna stacja kolejki gondolowej",KN09KK
+SR9NKU,"fm, echolink, fmpoland",438.3625,71.9,430.7625,71.9,,-,7.6,inprogress,50.341733,19.210983,"Dabrowa Gornicza",JO90IO
 SR9NP,"fm, fmlink",438.9375,107.2,431.3375,107.2,,-,7.6,working,49.467423,20.554353,Prehyba,KN09GL
 SR9NS,"fm, c4fm",439.225,107.2,431.625,107.2,,-,7.6,working,49.633351,20.737875,"Nowy Sacz",KN09IP
 SR9NSC,"echolink, fmpoland",145.3375,103.5,145.3375,,,,0,testing,49.612762,20.716533,"Nowy Sacz",KN09IO
 SR9NSK,fm,434.675,,434.675,,,,0,off,49.685689,19.031386,Skrzyczne,JN99MQ
 SR9OA,fm,438.75,,431.15,107.2,,-,7.6,working,50.004545,20.243282,"Wieza widokowa Dabrowa",KO00CA
+SR9OKO,dmr,438.8,,431.2,,,-,7.6,working,50.1348061,18.1668112,Strzybnik,JO90BD
 SR9OMP,"fm, dmr",431.3375,77,438.9375,77,,+,7.6,working,49.736501,18.634977,Cieszyn,JN99HR
 SR9P,"fm, echolink",145.6625,,145.0625,103.5,,-,0.6,working,49.7533,19.7822,"Gora Koskowa POLKOMTEL",JN99VS
 SR9PC,fm,438.85,,431.25,103.5,1,-,7.6,working,49.7533,19.7822,"Gora Koskowa POLKOMTEL",JN99VS
@@ -560,6 +564,7 @@ SR9SE,"fm, c4fm",439.2,,431.6,71.9,,-,7.6,off,50.318897,19.115915,Bedzin,JO90NH
 SR9SIM,echolink,145.3375,79.7,145.3375,79.7,,,0,off,50.26633,19.1375,Sosnowiec,JO90NG
 SR9SIM,dstar,439.0375,,431.4375,,,-,7.6,inprogress,0,0,Sosnowiec,
 SR9SK,"fm, c4fm",439.375,67,431.775,67,,-,7.6,working,49.685223,19.029843,Skrzyczne,JN99MQ
+SR9SR,dmr,438.4875,,430.8875,,,-,7.6,working,50.086379,18.554571,Rybnik,JO90GC
 SR9SS,"fm, fmlink",439.1,71.9,431.5,71.9,,-,7.6,working,50.298203,19.005029,"Siemianowice Slaskie",JO90MH
 SR9SZ,c4fm,439.15,,431.55,,,-,7.6,working,50.298203,19.005029,"Siemianowice Slaskie",JO90MH
 SR9TB,fm,438.775,103.5,431.175,103.5,1,-,7.6,working,49.884356,20.911473,"Gora Wa - Tarnow",KN09KV

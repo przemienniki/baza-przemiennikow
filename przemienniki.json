@@ -1281,6 +1281,26 @@
         "locator": "JO93JL"
     },
     {
+        "callsign": "SR2GRU",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 145.6875,
+        "tx_ctcss": false,
+        "rx_frequency": 145.0875,
+        "rx_ctcss": 94.8,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 0.6,
+        "status": "working",
+        "coordinates": [
+            53.45833,
+            18.75
+        ],
+        "qth": "Grudziadz",
+        "locator": "JO93JL"
+    },
+    {
         "callsign": "SR2GS",
         "modes": [
             "fm"
@@ -4069,17 +4089,17 @@
         ],
         "tx_frequency": 439.575,
         "tx_ctcss": 67,
-        "rx_frequency": 431.975,
+        "rx_frequency": 430.175,
         "rx_ctcss": 67,
         "rx_1750": false,
         "duplex": "-",
-        "offset": 7.6,
+        "offset": 9.4,
         "status": "working",
         "coordinates": [
             53.938,
             20.458
         ],
-        "qth": "Podlesna",
+        "qth": "Podlesna 66",
         "locator": "KO03FW"
     },
     {
@@ -9374,6 +9394,27 @@
         "locator": "KN19AX"
     },
     {
+        "callsign": "SR8RZE",
+        "modes": [
+            "fm",
+            "fmpoland"
+        ],
+        "tx_frequency": 439.2875,
+        "tx_ctcss": 71.9,
+        "rx_frequency": 431.6875,
+        "rx_ctcss": 71.9,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            50.062275,
+            21.954842
+        ],
+        "qth": "Rzeszow",
+        "locator": "KO00XB"
+    },
+    {
         "callsign": "SR8S",
         "modes": [
             "fm"
@@ -10930,6 +10971,28 @@
         "locator": "KN09KK"
     },
     {
+        "callsign": "SR9NKU",
+        "modes": [
+            "fm",
+            "echolink",
+            "fmpoland"
+        ],
+        "tx_frequency": 438.3625,
+        "tx_ctcss": 71.9,
+        "rx_frequency": 430.7625,
+        "rx_ctcss": 71.9,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "inprogress",
+        "coordinates": [
+            50.341733,
+            19.210983
+        ],
+        "qth": "Dabrowa Gornicza",
+        "locator": "JO90IO"
+    },
+    {
         "callsign": "SR9NP",
         "modes": [
             "fm",
@@ -11031,6 +11094,26 @@
         ],
         "qth": "Wieza widokowa Dabrowa",
         "locator": "KO00CA"
+    },
+    {
+        "callsign": "SR9OKO",
+        "modes": [
+            "dmr"
+        ],
+        "tx_frequency": 438.8,
+        "tx_ctcss": false,
+        "rx_frequency": 431.2,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            50.1348061,
+            18.1668112
+        ],
+        "qth": "Strzybnik",
+        "locator": "JO90BD"
     },
     {
         "callsign": "SR9OMP",
@@ -11486,6 +11569,26 @@
         ],
         "qth": "Skrzyczne",
         "locator": "JN99MQ"
+    },
+    {
+        "callsign": "SR9SR",
+        "modes": [
+            "dmr"
+        ],
+        "tx_frequency": 438.4875,
+        "tx_ctcss": false,
+        "rx_frequency": 430.8875,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            50.086379,
+            18.554571
+        ],
+        "qth": "Rybnik",
+        "locator": "JO90GC"
     },
     {
         "callsign": "SR9SS",
