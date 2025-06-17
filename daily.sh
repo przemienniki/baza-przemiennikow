@@ -43,9 +43,9 @@ repo_path=$HOME/baza-przemiennikow
 json_link=https://przemienniki.eu/eksport-danych/json/
 csv_link=https://przemienniki.eu/eksport-danych/csv/
 chirp_link=https://przemienniki.eu/eksport-danych/chirp/
-json_file=przemienniki.json
-csv_file=przemienniki.csv
-chirp_file=przemienniki-chirp.csv
+json_file=przemienniki-eu.json
+csv_file=przemienniki-eu.csv
+chirp_file=przemienniki-eu-chirp.csv
 
 [ "$(id -un)" = "$user" ] || { echo "Must be running as user $user"; exit 1; }
 
