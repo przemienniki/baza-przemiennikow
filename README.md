@@ -2,27 +2,39 @@
 
 ## Wstęp
 
-W związku z powstaniem i rozwojem strony <https://przemienniki.eu/> powstał pomysł przechowywania bazy przemienników w ogólnodostępnym repozytorium GitHub. Wybór padł na prosty do zapamiętania adres:
+Projekt ma na celu zachowanie społecznie tworzonej bazy polskich przemienników krótkofalarskich, wraz z historią zmian.
 
-<https://github.com/przemienniki/baza-przemiennikow/>
+Istnieje kilka stron, które mają własne bazy przemienników i umożliwiają ich eksport. Na chwilę obecną strony te to:
 
-Uruchamiany raz na dobę prosty skrypt (*daily.sh*) ściąga aktualną bazę z strony *przemienniki.eu* i jeśli są jakieś zmiany, to wypycha je do tego repozytorium.
+* https://przemienniki.net/
+* https://przemienniki.eu/
 
-Celem jest zachowanie gromadzonej społecznie wiedzy oraz historii zmian.
+Uruchamiany raz na dobę prosty skrypt (*daily.sh*) ściąga aktualne bazy z tych stron i jeśli są jakieś zmiany, to wypycha je do tego repozytorium.
 
-Skrypt został umieszczony w repozytorium jedynie w celu zapewnienia przejrzystości. Nie jest potrzebny do korzystania z bazy.
+Skrypt został umieszczony w repozytorium jedynie w celu zapewnienia przejrzystości. Nie jest potrzebny do korzystania z bazy / baz.
 
 ## Jakie formaty danych są dostępne?
 
-JSON, CSV i CSV dla programu Chirp. Szczegóły: <https://przemienniki.eu/eksport-danych/>.
+Dla bazy *przemienniki.net*:
 
-Oprócz tego, w pliku `przemienniki.net.sql` dostępny jest zrzut bazy zgromadzonej przez stronę *przemienniki.net*, wykonany ręcznie 30 stycznia 2025 r. Plik jest w formacie SQL – do zaimportowania np. do MySQL.
+* XML
+* CSV dla programu Chirp
+
+Szczegóły: <https://przemienniki.net/export>.
+
+Dla bazy *przemienniki.eu*:
+
+* JSON
+* CSV
+* CSV dla programu Chirp
+
+Szczegóły: <https://przemienniki.eu/eksport-danych/>.
+
+Oprócz tego, w pliku `old-przemienniki-net.sql` dostępny jest zrzut bazy zgromadzonej przez stronę *przemienniki.net*, wykonany ręcznie 30 stycznia 2025 r., przed przejęciem opieki nad stroną przez PZK. Plik jest w formacie SQL – do zaimportowania np. do MySQL.
 
 ## Jak mogę zgłosić zmianę w bazie?
 
-Wyłącznie przez stronę <https://przemienniki.eu/>. Tak długo, jak strona jest funkcjonalna, nie chcemy tworzyć kopii bazy (choć oczywiście nic nie stoi na przeszkodzie, żeby ktoś sobie sforkował repozytorium i używał go tak, jak uważa za stosowne). Oficjalna baza znajduje się na stronie *przemienniki.eu*. Tutaj znajduje się jedynie kopia.
-
-Jeśli autor strony *przemienniki.eu* kiedykolwiek porzuci projekt, to oczywiście będzie można zgłaszać zmiany poprzez PR do repozytorium (lub w inny sposób), ale najlepiej, gdyby nie porzucił :)
+Wyłącznie przez wyżej wymienione strony. Tutaj znajduje się jedynie kopia.
 
 ## Jak mogę zgłosić zmianę w tym README?
 
@@ -36,15 +48,17 @@ Tak samo jak zmianę w README.
 
 Jeśli od dawna nie było zmian, to są dwie możliwości: albo faktycznie nie było zmian, więc nie były tworzone puste commity, albo skrypt z jakiegoś powodu nie działa. Można zajrzeć na stronę <http://przemienniki-status.chmurka.net/>, na której publikowany jest rezultat ostatniego uruchomienia skryptu wraz z datą i godziną. Jeśli data jest dawniejsza niż doba lub w statusie coś jest nie tak, to koniecznie daj mi znać.
 
-## Czy repozytorium jest powiązane ze stroną przemienniki.eu?
+## Czy repozytorium jest powiązane ze wspomnianymi stronami?
 
-Nie, choć autor wie o jego istnieniu. Skrypt korzysta z oficjalnego API, udostępnianego przez stronę *przemienniki.eu*, ale jest tworzony przez inną osobę i pracuje na innej infrastrukturze. Autor *przemienniki.eu* nie ma z tym repozytorium nic wspólnego.
+Nie. Skrypt korzysta z oficjalnego API, udostępnianego przez autorów wyżej wymienionych stron, ale jest tworzony przez inną osobę i pracuje na innej infrastrukturze.
 
 ## Tworzę nowy projekt związany z polskimi przemiennikami. Czy mogę hostować repozytorium w projekcie „przemienniki” na GitHubie?
 
 Jasne. Daj mi znać.
 
 ## Kto za tym stoi?
+
+Stronę <https://przemienniki.net/> rozwija obecnie zespół PZK.
 
 Stronę <https://przemienniki.eu/> stworzył i rozwija [Wojtek SQ8W](http://qrz.com/db/sq8w).
 
