@@ -2,7 +2,7 @@
 
 ## Wstęp
 
-Projekt ma na celu zachowanie społecznie tworzonej bazy polskich przemienników krótkofalarskich, wraz z historią zmian.
+Projekt ma na celu zachowanie społecznie tworzonej bazy polskich przemienników krótkofalarskich wraz z historią zmian.
 
 Istnieje kilka stron, które mają własne bazy przemienników i umożliwiają ich eksport. Na chwilę obecną strony te to:
 
@@ -61,7 +61,7 @@ Nie. Skrypt korzysta z oficjalnego API, udostępnianego przez autorów wyżej wy
 
 ## Tworzę nowy projekt związany z polskimi przemiennikami. Czy mogę wykorzystać te bazy?
 
-Przed skorzystaniem z baz zapoznaj się, proszę, z informacjami podanymi na stronach, z których bazy są pobierane. Przykładowo, zespół *przemienniki.net* [pisze](https://przemienniki.net/export) pisze:
+Przed skorzystaniem z baz zapoznaj się, proszę, z informacjami podanymi na stronach, z których bazy są pobierane. Przykładowo, zespół *przemienniki.net* [pisze](https://przemienniki.net/export):
 
 > Po pierwsze: co prawda zabraniać sobie możemy, a i tak zrobisz co zechcesz, prosimy, aby bez uzgodnienia z nami, dane te nie były wykorzystywane do tworzenia innych stron WWW bądź aplikacji opartych o HTML. Jesteśmy otwarci na współpracę, ale w takim wypadku wolelibyśmy dowiedzieć się co chcesz zrobić. Może uda Ci się wykorzystać pozostałe rozwiązania z naszej mapy.
 > 
@@ -77,7 +77,7 @@ Jasne. Daj mi znać.
 
 ## Kto za tym stoi?
 
-Stronę <https://przemienniki.net/> przejął i rozwija obecnie zespół związany z Polskim Związkiem Krótkofalowców.
+Stronę <https://przemienniki.net/> przejął i rozwija zespół związany z Polskim Związkiem Krótkofalowców.
 
 Stronę <https://przemienniki.eu/> stworzył i rozwija [Wojtek SQ8W](http://qrz.com/db/sq8w).
 
