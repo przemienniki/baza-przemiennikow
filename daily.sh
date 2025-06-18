@@ -140,8 +140,7 @@ if [ $result_przemienniki_eu = 1 -o $result_przemienniki_net = 1 ]; then
 	date=$(date "+%Y-%m-%d %H:%M:%S")
 	git commit -m "Automatyczna aktualizacja $date" || { log "Could not commit"; exit 1; }
 	git push || { log "Could not push"; exit 1; }
+	log "Repository updated"
 else
-	log "Commit not needed"
+	log "Repository update not needed"
 fi
-
-log "Everything OK"
