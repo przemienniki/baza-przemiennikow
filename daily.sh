@@ -35,6 +35,8 @@ dl()
 	log "Downloading file: $1"
 	curl "$1" > "$2" || { log "Error downloading data"; return 1; }
 	[ -s "$2" ] || { log "Downloaded empty file"; return 1; }
+	size=$(stat -c%s "$2")
+	log "Downloaded $size bytes"
 	return 0
 }
 
@@ -61,7 +63,7 @@ dl_przemienniki_eu()
 	{ log "No changes in przemienniki.eu since last check"; return 0; }
 
 	cp -f "$tmp_dir/$eu_json_file" "$tmp_dir/$eu_csv_file" "$tmp_dir/$eu_chirp_file" "$repo_path/" || \
-	{ log "Could not copy przemienniki.eu files to repository"; exit 2; }
+	{ log "Could not copy przemienniki.eu files to repository"; return 2; }
 
 	log "przemienniki.eu database changed"
 	return 1
@@ -84,7 +86,7 @@ dl_przemienniki_net()
 	dl "$chirp_link" "$tmp_dir/$net_chirp_file" || return 2
 
 	cp -f "$tmp_dir/$net_ts_file" "$tmp_dir/$net_xml_file" "$tmp_dir/$net_chirp_file" "$repo_path/" || \
-	{ log "Could not copy przemienniki.net files to repository"; exit 2; }
+	{ log "Could not copy przemienniki.net files to repository"; return 2; }
 
 	log "przemienniki.net database changed"
 	return 1
