@@ -485,6 +485,26 @@
         "locator": "JO73GK"
     },
     {
+        "callsign": "SR1UVS",
+        "modes": [
+            "dstar"
+        ],
+        "tx_frequency": 1298.8,
+        "tx_ctcss": false,
+        "rx_frequency": 1270.8,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 28,
+        "status": "working",
+        "coordinates": [
+            0,
+            0
+        ],
+        "qth": "",
+        "locator": ""
+    },
+    {
         "callsign": "SR1UVX",
         "modes": [
             "dmr"
@@ -2403,6 +2423,26 @@
         "locator": "JO92HF"
     },
     {
+        "callsign": "SR3KH",
+        "modes": [
+            "c4fm"
+        ],
+        "tx_frequency": 438.3125,
+        "tx_ctcss": false,
+        "rx_frequency": 430.7125,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            0,
+            0
+        ],
+        "qth": "Kolo",
+        "locator": "jo92he"
+    },
+    {
         "callsign": "SR3KHA",
         "modes": [
             "c4fm"
@@ -2670,7 +2710,7 @@
             "fm"
         ],
         "tx_frequency": 439.05,
-        "tx_ctcss": 67,
+        "tx_ctcss": false,
         "rx_frequency": 431.45,
         "rx_ctcss": 67,
         "rx_1750": false,
@@ -2842,6 +2882,26 @@
         "coordinates": [
             52.346795,
             15.276266
+        ],
+        "qth": "RTCN Jemiolow\/Lagow maszt EmiTel",
+        "locator": "JO72PI"
+    },
+    {
+        "callsign": "SR3UVJ",
+        "modes": [
+            "dstar"
+        ],
+        "tx_frequency": 438.4125,
+        "tx_ctcss": false,
+        "rx_frequency": 430.8125,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            0,
+            0
         ],
         "qth": "RTCN Jemiolow\/Lagow maszt EmiTel",
         "locator": "JO72PI"
@@ -6715,6 +6775,24 @@
         "locator": "JO80FQ"
     },
     {
+        "callsign": "SR6SO",
+        "modes": [],
+        "tx_frequency": 439.4125,
+        "tx_ctcss": false,
+        "rx_frequency": 431.8125,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            50.502906,
+            18.292613
+        ],
+        "qth": "Strzelce Opolskie",
+        "locator": "JO90dm50"
+    },
+    {
         "callsign": "SR6TT",
         "modes": [
             "fm",
@@ -8288,6 +8366,26 @@
         "locator": "KN09XT"
     },
     {
+        "callsign": "SR8ALA",
+        "modes": [
+            "dmr"
+        ],
+        "tx_frequency": 439.475,
+        "tx_ctcss": false,
+        "rx_frequency": 431.875,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "testing",
+        "coordinates": [
+            49.814923,
+            21.99281
+        ],
+        "qth": "Domaradz",
+        "locator": "KN09XT"
+    },
+    {
         "callsign": "SR8AR",
         "modes": [
             "fm"
@@ -8732,6 +8830,26 @@
         ],
         "qth": "Wlodawa",
         "locator": "KO11SN"
+    },
+    {
+        "callsign": "SR8GA",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 145.725,
+        "tx_ctcss": 77,
+        "rx_frequency": 145.125,
+        "rx_ctcss": 77,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 0.6,
+        "status": "testing",
+        "coordinates": [
+            0,
+            0
+        ],
+        "qth": "Pulawy",
+        "locator": "KO11XK"
     },
     {
         "callsign": "SR8J",
@@ -10025,6 +10143,27 @@
         ],
         "qth": "Schroniska PTTK Szyndzielnia",
         "locator": "JN99MS"
+    },
+    {
+        "callsign": "SR9BB",
+        "modes": [
+            "fm",
+            "fmlink"
+        ],
+        "tx_frequency": 438.5375,
+        "tx_ctcss": 67,
+        "rx_frequency": 430.9375,
+        "rx_ctcss": 67,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "planned",
+        "coordinates": [
+            49.685562,
+            19.031298
+        ],
+        "qth": "Platforma widokowa na Skrzycznem",
+        "locator": "JN99MQ"
     },
     {
         "callsign": "SR9BN",
