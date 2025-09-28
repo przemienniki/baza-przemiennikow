@@ -6793,6 +6793,27 @@
         "locator": "JO90dm50"
     },
     {
+        "callsign": "SR6T",
+        "modes": [
+            "dmr",
+            "c4fm"
+        ],
+        "tx_frequency": 438.55,
+        "tx_ctcss": false,
+        "rx_frequency": 430.95,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            50.914357,
+            16.014392
+        ],
+        "qth": "Bolkow",
+        "locator": "JO80AV"
+    },
+    {
         "callsign": "SR6TT",
         "modes": [
             "fm",
