@@ -102,6 +102,26 @@
         "locator": "JO73GK"
     },
     {
+        "callsign": "SR1BAR",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 439.55,
+        "tx_ctcss": 82.5,
+        "rx_frequency": 431.95,
+        "rx_ctcss": 82.5,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "testing",
+        "coordinates": [
+            52.97359,
+            15.23134
+        ],
+        "qth": "Barlinek",
+        "locator": "JO72OX"
+    },
+    {
         "callsign": "SR1CH",
         "modes": [
             "fm"
@@ -1462,6 +1482,27 @@
         ],
         "qth": "Wiezyca",
         "locator": "JO94BF"
+    },
+    {
+        "callsign": "SR2KW",
+        "modes": [
+            "fm",
+            "fmpoland"
+        ],
+        "tx_frequency": 145.7,
+        "tx_ctcss": 100,
+        "rx_frequency": 145.7,
+        "rx_ctcss": 100,
+        "rx_1750": false,
+        "duplex": false,
+        "offset": 0,
+        "status": "planned",
+        "coordinates": [
+            52.67251043311364,
+            19.03243257807508
+        ],
+        "qth": "Wloclawek",
+        "locator": "JO92MQ"
     },
     {
         "callsign": "SR2KY",
@@ -6449,25 +6490,26 @@
             "fm",
             "fmpoland"
         ],
-        "tx_frequency": 439.2,
+        "tx_frequency": 439.125,
         "tx_ctcss": 67,
-        "rx_frequency": 431.6,
+        "rx_frequency": 431.525,
         "rx_ctcss": 67,
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
         "status": "working",
         "coordinates": [
-            51.200767,
-            16.208553
+            51.21246,
+            16.163592
         ],
         "qth": "Legnica",
-        "locator": "JO81ce"
+        "locator": "JO81BF"
     },
     {
         "callsign": "SR6LDV",
         "modes": [
-            "dmr"
+            "dmr",
+            "c4fm"
         ],
         "tx_frequency": 438.25,
         "tx_ctcss": false,
@@ -6478,11 +6520,11 @@
         "offset": 7.6,
         "status": "working",
         "coordinates": [
-            51.20057,
-            16.209077
+            51.21246,
+            16.163592
         ],
         "qth": "Legnica",
-        "locator": "JO81CE"
+        "locator": "JO81BF"
     },
     {
         "callsign": "SR6LWS",
@@ -10157,7 +10199,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "planned",
+        "status": "unverified",
         "coordinates": [
             49.755244,
             19.002927
@@ -10693,6 +10735,26 @@
         ],
         "qth": "Gliwice",
         "locator": "JO90HG"
+    },
+    {
+        "callsign": "SR9GOL",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 145.65,
+        "tx_ctcss": 114.8,
+        "rx_frequency": 434.75,
+        "rx_ctcss": 114.8,
+        "rx_1750": false,
+        "duplex": "+",
+        "offset": 289.1,
+        "status": "inprogress",
+        "coordinates": [
+            50.177226,
+            20.569857
+        ],
+        "qth": "",
+        "locator": "KO00GE82JN"
     },
     {
         "callsign": "SR9GP",
