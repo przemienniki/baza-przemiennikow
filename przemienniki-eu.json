@@ -62,6 +62,26 @@
         "locator": "KO02MM"
     },
     {
+        "callsign": "SR0GOL",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 439.1375,
+        "tx_ctcss": false,
+        "rx_frequency": 431.5375,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            50.177279,
+            20.570335
+        ],
+        "qth": "",
+        "locator": "KO00GE81"
+    },
+    {
         "callsign": "SR0WW",
         "modes": [
             "fm"
@@ -559,11 +579,11 @@
         "offset": 0.6,
         "status": "working",
         "coordinates": [
-            53.909511,
-            14.254612
+            53.909336,
+            14.25465
         ],
         "qth": "Swinoujscie",
-        "locator": "JO73DV"
+        "locator": "JO73DV08"
     },
     {
         "callsign": "SR1W",
