@@ -73,7 +73,7 @@ SR2J,fm,145.5875,74.4,144.9875,74.4,,-,0.6,working,52.919733,17.836519,"Szubin -
 SR2JJ,fm,439.1625,74.4,431.5625,74.4,,-,7.6,working,52.919733,17.836519,"Szubin - Jablowo Paluckie / wieza p.poz",JO82WW
 SR2K,fm,145.7125,88.5,145.1125,88.5,,-,0.6,working,53.042635,18.62559,Torun,JO93HB
 SR2KU,"fm, echolink",439.425,94.8,431.825,94.8,,-,7.6,working,54.209874,18.111871,Wiezyca,JO94BF
-SR2KW,"fm, fmpoland",145.7,100,145.7,100,,,0,planned,52.67251043,19.03243258,Wloclawek,JO92MQ
+SR2KW,"fm, fmpoland",145.3375,100,145.3375,100,,,0,working,52.67275307,19.03257292,Wloclawek,JO92MQ
 SR2KY,fm,439.25,88.5,431.65,,,-,7.6,working,53.71013,18.955103,Kwidzyn,JO93LR
 SR2MAL,c4fm,439.0625,,431.4625,,,-,7.6,working,54.039803,19.033037,Malbork,JO94MA
 SR2OK,c4fm,438.875,,431.275,,,-,7.6,working,54.545013,18.535907,"Gdynia-Oksywie EMITEL",JO94GN
@@ -293,7 +293,7 @@ SR5YAM,"dstar, echolink, c4fm",430.5375,,430.5375,,,,0,off,52.146074,20.815292,K
 SR5YM,"dstar, c4fm",438.3,,430.7,,,-,7.6,off,52.146074,20.815292,Komorow,KO02JD
 SR5ZIP,fm,439.25,127.3,431.65,127.3,,-,7.6,working,52.284421,20.94239,Warszawa,KO02LG
 SR5ZOC,"fm, fmpoland",145.587,127.3,145.587,127.3,,,0,working,52.2552778,22.7458333,Nowosielce,KO12IF
-SR5ZQ,dstar,438.8625,,431.2625,,,-,7.6,inprogress,52.007496,20.589476,Skierniewice,KO02HA
+SR5ZQ,"c4fm, dstar",439.25,,431.65,,,-,7.6,working,52.007496,20.589476,Skierniewice,"Krze Duze"
 SR5ZU,fm,438.7,88.5,431.1,88.5,,-,7.6,working,53.064381,19.885142,Zuromin,JO93WB
 SR6A,dstar,145.575,,144.975,,,-,0.6,off,50.853782,17.460431,Brzeg,JO80RU
 SR6AA,"fm, fmpoland",439.4,,431.8,67,,-,7.6,working,51.205828,16.165898,Legnica,JO81BE

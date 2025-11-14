@@ -1509,17 +1509,17 @@
             "fm",
             "fmpoland"
         ],
-        "tx_frequency": 145.7,
+        "tx_frequency": 145.3375,
         "tx_ctcss": 100,
-        "rx_frequency": 145.7,
+        "rx_frequency": 145.3375,
         "rx_ctcss": 100,
         "rx_1750": false,
         "duplex": false,
         "offset": 0,
-        "status": "planned",
+        "status": "working",
         "coordinates": [
-            52.67251043311364,
-            19.03243257807508
+            52.67275306724774,
+            19.032572923539977
         ],
         "qth": "Wloclawek",
         "locator": "JO92MQ"
@@ -6023,22 +6023,23 @@
     {
         "callsign": "SR5ZQ",
         "modes": [
+            "c4fm",
             "dstar"
         ],
-        "tx_frequency": 438.8625,
+        "tx_frequency": 439.25,
         "tx_ctcss": false,
-        "rx_frequency": 431.2625,
+        "rx_frequency": 431.65,
         "rx_ctcss": false,
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "inprogress",
+        "status": "working",
         "coordinates": [
             52.007496,
             20.589476
         ],
         "qth": "Skierniewice",
-        "locator": "KO02HA"
+        "locator": "Krze Duze"
     },
     {
         "callsign": "SR5ZU",
