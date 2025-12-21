@@ -19,7 +19,7 @@ SR1N,fm,145.675,,145.075,,1,-,0.6,working,54.20258,16.177512,Koszalin,JO84CE
 SR1P,"fm, echolink",145.725,,145.125,,,-,0.6,off,0,0,Postomino,JO84IL
 SR1RE,fm,439.15,,431.55,88.5,,-,7.6,working,53.772662,15.406737,Resko,JO73QS
 SR1RG,fm,438.875,82.5,431.275,82.5,,-,7.6,working,54.053464,15.256868,Trzebiatow,JO74PB
-SR1S,fm,145.775,82.5,145.175,82.5,,-,0.6,off,53.458827,14.535034,Szczecin,JO73GL
+SR1S,"fm, dmr, c4fm",145.77,82.5,145.17,82.5,,-,0.6,planned,53.40396,14.52215,Szczecin,JO73GJ
 SR1SZ,fm,439.075,82.5,431.475,82.5,,-,7.6,working,53.458827,14.535034,Szczecin,JO73GL
 SR1TET,tetra,431.625,,430.025,,,-,1.6,working,53.3425,15.0252,Stargard,JO73mi
 SR1TS,fm,29.67,82.5,29.57,82.5,,-,0.1,off,53.458827,14.535034,Szczecin,JO73GL
@@ -40,6 +40,7 @@ SR1YWX,c4fm,439.2625,,431.6625,,,-,7.6,working,53.339449,15.008799,Stargard,JO73
 SR1Z,fm,145.6375,82.5,145.0375,82.5,1,-,0.6,working,53.334105,14.67537,"Kolowo EMITEL",JO73II
 SR1ZDR,dmr,438.3125,,430.7125,,,-,7.6,inprogress,53.301882,15.908961,"Kalisz Pomorski",JO73WH
 SR1ZK-B,dstar,439.3,,431.7,,,-,7.6,working,53.334105,14.67537,Kolowo,JO73II
+SR1ZS,"fm, dmr, c4fm",439,82.5,431.4,82.5,,-,7.6,planned,53.40396,14.52215,Szczecin,JO73GJ
 SR1ZW,"dmr, c4fm",438.8375,,431.2375,,,-,7.6,working,53.909511,14.254612,Swinoujscie,JO73DV
 SR23BN,"fm, dstar",1298.175,71.9,1270.175,,,-,28,working,50.307487,19.12194,Bedzin,JO90NH
 SR23CM,fm,1298.1,,1270.1,,,-,28,working,0,0,Skrzyczne,JN99MQ
@@ -50,10 +51,12 @@ SR2BT,fm,439.1,77,431.5,77,,-,7.6,working,53.543337,18.06983,"Bory Tucholskie",J
 SR2BW,fm,438.7,,431.1,,,-,7.6,working,54.181,17.49345,"Bytow - komin cieplowni Veolia Polnoc",JO84RE
 SR2BY,fm,438.725,,431.125,67,1,-,7.6,working,53.10927,17.990141,Bydgoszcz,JO83XC
 SR2C,fm,145.6,94.8,145,94.8,,-,0.6,working,54.452753,18.435949,"Chwaszczyno EMITEL",JO94FK
+SR2CDE,dstar,439.1875,,431.5875,,,-,7.6,working,54.34082,18.555667,Gdansk,JO94GI
 SR2D,dmr,145.75,,145.15,,,-,0.6,inprogress,0,0,Gdansk,JO94FJ
 SR2DCH,dmr,438.3875,,430.7875,,,-,7.6,working,53.660436,17.379398,Czluchow,JO83QP
 SR2DMR,dmr,439.3125,,431.7125,,,-,7.6,working,52.919733,17.836519,"Szubin - Jablowo Paluckie / wieza p.poz",JO82WW
 SR2DMR-C,c4fm,439.5625,,431.9625,,,-,7.6,inprogress,52.919733,17.836519,"Szubin - Jablowo Paluckie / wieza p.poz",JO82WW
+SR2DV,dstar,439.1875,,431.5875,,,-,7.6,testing,54.340465,18.555603,GDANSK,JO94GI
 SR2EL,"fm, echolink, minilink",439.55,94.8,431.95,94.8,,-,7.6,working,54.138022,19.456066,Elblag,JO94RD
 SR2FM,"fm, fmlink",439.5375,74.4,431.9375,74.4,,-,7.6,working,52.919733,17.836519,"Szubin - Jablowo Paluckie / wieza p.poz",JO82WW
 SR2G,c4fm,145.7,,145.1,,,-,0.6,working,54.34704,18.665793,Gdansk,JO94HI
@@ -100,7 +103,7 @@ SR2WE,c4fm,439.225,,431.625,,,-,7.6,working,54.590756,18.22903,Wejherowo,JO94CO
 SR2WL,fm,439.025,,431.425,82.5,,-,7.6,off,52.665735,19.049512,Wloclawek,JO92MP
 SR2Z,fm,145.65,94.8,145.05,94.8,,-,0.6,working,54.545013,18.535907,"Gdynia-Oksywie EMITEL",JO94GN
 SR3A,fm,145.6625,79.7,145.0625,79.7,1,-,0.6,planned,52.346795,15.276266,"RTCN Jemiolow/Lagow maszt EmiTel",JO72PI
-SR3DAB,dmr,438.575,,430.975,,,-,7.6,working,52.1261,18.8562,Zalesie,JO92KD
+SR3DAB,dmr,439.575,,431.975,,,-,7.6,working,52.1264,18.8562,Zalesie,JO92KD
 SR3DAB,dstar,439.575,,431.975,,,-,7.6,working,52.1261,18.8562,Zalesie,JO92KD
 SR3DAB,c4fm,439.05,,431.45,,,-,7.6,working,52.1261,18.8562,Zalesie,JO92KD
 SR3DGW,dmr,438.55,,430.95,,,-,7.6,working,52.744249,15.280424,"Gorzow Wielkopolski",JO72PR
@@ -193,7 +196,7 @@ SR4MI,"fm, fmlink",438.75,67,431.15,67,,-,7.6,working,53.937727,21.844764,"Milki
 SR4MID,dmr,438.225,,430.625,,,-,7.6,working,53.937727,21.844764,"Milki k/Gizycka EMITEL",KO03WW
 SR4MIT,c4fm,438.525,,430.925,,,-,7.6,working,53.937727,21.844764,"Milki k/Gizycka EMITEL",KO03WW
 SR4MO,"fm, echolink, minilink",438.45,,430.85,67,,-,7.6,working,53.913509,19.928902,Morag,JO93XV
-SR4MR,fm,439.15,67,431.55,67,,-,7.6,working,53.864468,21.296859,"Mragowo - wieza cisnien wodociagow",KO03PU
+SR4MR,fm,439.15,67,431.55,67,,-,7.6,off,53.864468,21.296859,"Mragowo - wieza cisnien wodociagow",KO03PU
 SR4MWO,"fm, dstar, dmr, c4fm",438.15,67,430.55,67,,-,7.6,working,53.866333,21.285911,Mragowo,KO03PU
 SR4O,fm,145.725,67,145.125,,1,-,0.6,working,53.773118,20.51332,Olsztyn,KO03GS
 SR4OE,"dmr, c4fm",439.4,,431.8,,,-,7.6,working,54.035498,22.500114,Olecko,KO14GA
@@ -562,12 +565,15 @@ SR9POL,echolink,50.53,,50.53,,,,0,off,49.719364,20.454774,"Mordarka - Lysa Gora 
 SR9PS,"fm, echolink",439.25,67,431.65,67,,-,7.6,working,50.039285,18.400512,Pszow,JO90EA
 SR9RAC,fm,439.575,67,431.975,67,,-,7.6,working,50.120982,18.153277,Strzybniczek,JO90BC
 SR9RC,c4fm,438.675,67,431.075,67,,-,7.6,working,0,0,Pogrzebien,JO90DB
+SR9RP,"fm, dmr",439.25,107.2,431.65,107.2,,-,7.6,inprogress,49.652776,20.547884,Wysokie,KN09GP
 SR9RR,"fm, dmr",439.1,107.2,431.5,107.2,,-,7.6,inprogress,0,0,,KN09JM
+SR9RS,"fm, dmr",439.325,107.2,431.725,107.2,,-,7.6,inprogress,49.527601,20.821271,,
 SR9RSR,dmr,438.3375,,430.7375,,,-,7.6,working,50.087687,18.534451,Rybnik,JO90GC
 SR9RT,"fm, fmpoland",145.6375,103.5,145.0375,103.5,,-,0.6,working,49.719344,20.454852,"Mordarka - Lysa Gora 781 m n.p.m. (k. Limanowej)",KN09FR
 SR9RT,"fm, fmpoland",438.6375,103.5,431.0375,103.5,,-,7.6,working,49.719344,20.454852,"Mordarka - Lysa Gora 781 m n.p.m. k. Limanowej",KN09FR
 SR9RT,"fm, fmpoland",51.99,103.5,51.39,103.5,,-,0.6,working,49.719344,20.454852,"Mordarka - Lysa Gora 781 m n.p.m. k. Limanowej",KN09FR
 SR9RT,"fm, fmpoland",29.66,103.5,29.56,103.5,,-,0.1,working,49.719344,20.454852,"Mordarka - Lysa Gora 781 m n.p.m. k. Limanowej",KN09FR
+SR9RU,"fm, dmr",439.35,107.2,431.75,107.2,,-,7.6,inprogress,49.467286,20.554214,,
 SR9S,fm,145.775,67,145.175,67,,-,0.6,working,50.01602,19.10627,Wola,JO90NA
 SR9S,"fm, c4fm",439.4125,67,431.8125,67,,-,7.6,working,50.01657,19.106255,Wola,JO90NA
 SR9SA,"fm, echolink",439.45,67,431.85,67,,-,7.6,planned,49.760432,19.001325,"Gora Szyndzielnia, Bielsko-Biala",JN99MS

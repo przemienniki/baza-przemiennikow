@@ -407,22 +407,24 @@
     {
         "callsign": "SR1S",
         "modes": [
-            "fm"
+            "fm",
+            "dmr",
+            "c4fm"
         ],
-        "tx_frequency": 145.775,
+        "tx_frequency": 145.77,
         "tx_ctcss": 82.5,
-        "rx_frequency": 145.175,
+        "rx_frequency": 145.17,
         "rx_ctcss": 82.5,
         "rx_1750": false,
         "duplex": "-",
         "offset": 0.6,
-        "status": "off",
+        "status": "planned",
         "coordinates": [
-            53.458827,
-            14.535034
+            53.40396,
+            14.52215
         ],
         "qth": "Szczecin",
-        "locator": "JO73GL"
+        "locator": "JO73GJ"
     },
     {
         "callsign": "SR1SZ",
@@ -828,6 +830,28 @@
         "locator": "JO73II"
     },
     {
+        "callsign": "SR1ZS",
+        "modes": [
+            "fm",
+            "dmr",
+            "c4fm"
+        ],
+        "tx_frequency": 439,
+        "tx_ctcss": 82.5,
+        "rx_frequency": 431.4,
+        "rx_ctcss": 82.5,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "planned",
+        "coordinates": [
+            53.40396,
+            14.52215
+        ],
+        "qth": "Szczecin",
+        "locator": "JO73GJ"
+    },
+    {
         "callsign": "SR1ZW",
         "modes": [
             "dmr",
@@ -1031,6 +1055,26 @@
         "locator": "JO94FK"
     },
     {
+        "callsign": "SR2CDE",
+        "modes": [
+            "dstar"
+        ],
+        "tx_frequency": 439.1875,
+        "tx_ctcss": false,
+        "rx_frequency": 431.5875,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            54.34082,
+            18.555667
+        ],
+        "qth": "Gdansk",
+        "locator": "JO94GI"
+    },
+    {
         "callsign": "SR2D",
         "modes": [
             "dmr"
@@ -1109,6 +1153,26 @@
         ],
         "qth": "Szubin - Jablowo Paluckie \/ wieza p.poz",
         "locator": "JO82WW"
+    },
+    {
+        "callsign": "SR2DV",
+        "modes": [
+            "dstar"
+        ],
+        "tx_frequency": 439.1875,
+        "tx_ctcss": false,
+        "rx_frequency": 431.5875,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "testing",
+        "coordinates": [
+            54.340465,
+            18.555603
+        ],
+        "qth": "GDANSK",
+        "locator": "JO94GI"
     },
     {
         "callsign": "SR2EL",
@@ -2060,16 +2124,16 @@
         "modes": [
             "dmr"
         ],
-        "tx_frequency": 438.575,
+        "tx_frequency": 439.575,
         "tx_ctcss": false,
-        "rx_frequency": 430.975,
+        "rx_frequency": 431.975,
         "rx_ctcss": false,
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
         "status": "working",
         "coordinates": [
-            52.1261,
+            52.1264,
             18.8562
         ],
         "qth": "Zalesie",
@@ -3963,7 +4027,7 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "working",
+        "status": "off",
         "coordinates": [
             53.864468,
             21.296859
@@ -11524,6 +11588,27 @@
         "locator": "JO90DB"
     },
     {
+        "callsign": "SR9RP",
+        "modes": [
+            "fm",
+            "dmr"
+        ],
+        "tx_frequency": 439.25,
+        "tx_ctcss": 107.2,
+        "rx_frequency": 431.65,
+        "rx_ctcss": 107.2,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "inprogress",
+        "coordinates": [
+            49.652776,
+            20.547884
+        ],
+        "qth": "Wysokie",
+        "locator": "KN09GP"
+    },
+    {
         "callsign": "SR9RR",
         "modes": [
             "fm",
@@ -11543,6 +11628,27 @@
         ],
         "qth": "",
         "locator": "KN09JM"
+    },
+    {
+        "callsign": "SR9RS",
+        "modes": [
+            "fm",
+            "dmr"
+        ],
+        "tx_frequency": 439.325,
+        "tx_ctcss": 107.2,
+        "rx_frequency": 431.725,
+        "rx_ctcss": 107.2,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "inprogress",
+        "coordinates": [
+            49.527601,
+            20.821271
+        ],
+        "qth": "",
+        "locator": ""
     },
     {
         "callsign": "SR9RSR",
@@ -11647,6 +11753,27 @@
         ],
         "qth": "Mordarka - Lysa Gora 781 m n.p.m. k. Limanowej",
         "locator": "KN09FR"
+    },
+    {
+        "callsign": "SR9RU",
+        "modes": [
+            "fm",
+            "dmr"
+        ],
+        "tx_frequency": 439.35,
+        "tx_ctcss": 107.2,
+        "rx_frequency": 431.75,
+        "rx_ctcss": 107.2,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "inprogress",
+        "coordinates": [
+            49.467286,
+            20.554214
+        ],
+        "qth": "",
+        "locator": ""
     },
     {
         "callsign": "SR9S",
