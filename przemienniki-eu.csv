@@ -104,7 +104,7 @@ SR2WL,fm,439.025,,431.425,82.5,,-,7.6,off,52.665735,19.049512,Wloclawek,JO92MP
 SR2Z,fm,145.65,94.8,145.05,94.8,,-,0.6,working,54.545013,18.535907,"Gdynia-Oksywie EMITEL",JO94GN
 SR3A,fm,145.6625,79.7,145.0625,79.7,1,-,0.6,planned,52.346795,15.276266,"RTCN Jemiolow/Lagow maszt EmiTel",JO72PI
 SR3DAB,dmr,439.575,,431.975,,,-,7.6,working,52.1264,18.8562,Zalesie,JO92KD
-SR3DAB,dstar,439.575,,431.975,,,-,7.6,working,52.1261,18.8562,Zalesie,JO92KD
+SR3DAB,dstar,438.575,,430.975,,,-,7.6,working,52.136228,18.860674,Zalesie,JO92KD
 SR3DAB,c4fm,439.05,,431.45,,,-,7.6,working,52.1261,18.8562,Zalesie,JO92KD
 SR3DGW,dmr,438.55,,430.95,,,-,7.6,working,52.744249,15.280424,"Gorzow Wielkopolski",JO72PR
 SR3DJ,dmr,438.125,,430.525,,,-,7.6,off,52.346795,15.276266,"RTCN Jemiolow/Lagow maszt EmiTel",JO72PI
@@ -196,7 +196,7 @@ SR4MI,"fm, fmlink",438.75,67,431.15,67,,-,7.6,working,53.937727,21.844764,"Milki
 SR4MID,dmr,438.225,,430.625,,,-,7.6,working,53.937727,21.844764,"Milki k/Gizycka EMITEL",KO03WW
 SR4MIT,c4fm,438.525,,430.925,,,-,7.6,working,53.937727,21.844764,"Milki k/Gizycka EMITEL",KO03WW
 SR4MO,"fm, echolink, minilink",438.45,,430.85,67,,-,7.6,working,53.913509,19.928902,Morag,JO93XV
-SR4MR,fm,439.15,67,431.55,67,,-,7.6,off,53.864468,21.296859,"Mragowo - wieza cisnien wodociagow",KO03PU
+SR4MR,fm,439.15,67,431.15,67,,-,8,off,53.5178,21.1787,Mragowo,KO03PU
 SR4MWO,"fm, dstar, dmr, c4fm",438.15,67,430.55,67,,-,7.6,working,53.866333,21.285911,Mragowo,KO03PU
 SR4O,fm,145.725,67,145.125,,1,-,0.6,working,53.773118,20.51332,Olsztyn,KO03GS
 SR4OE,"dmr, c4fm",439.4,,431.8,,,-,7.6,working,54.035498,22.500114,Olecko,KO14GA

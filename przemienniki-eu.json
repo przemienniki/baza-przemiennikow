@@ -2144,17 +2144,17 @@
         "modes": [
             "dstar"
         ],
-        "tx_frequency": 439.575,
+        "tx_frequency": 438.575,
         "tx_ctcss": false,
-        "rx_frequency": 431.975,
+        "rx_frequency": 430.975,
         "rx_ctcss": false,
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
         "status": "working",
         "coordinates": [
-            52.1261,
-            18.8562
+            52.136228,
+            18.860674
         ],
         "qth": "Zalesie",
         "locator": "JO92KD"
@@ -4022,17 +4022,17 @@
         ],
         "tx_frequency": 439.15,
         "tx_ctcss": 67,
-        "rx_frequency": 431.55,
+        "rx_frequency": 431.15,
         "rx_ctcss": 67,
         "rx_1750": false,
         "duplex": "-",
-        "offset": 7.6,
+        "offset": 8,
         "status": "off",
         "coordinates": [
-            53.864468,
-            21.296859
+            53.5178,
+            21.1787
         ],
-        "qth": "Mragowo - wieza cisnien wodociagow",
+        "qth": "Mragowo",
         "locator": "KO03PU"
     },
     {
