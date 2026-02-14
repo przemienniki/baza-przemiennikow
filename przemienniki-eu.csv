@@ -11,7 +11,7 @@ SR1CZ,fm,438.7125,,431.1125,82.5,,-,7.6,testing,53.547541,16.233773,Czaplinek,JO
 SR1D,fm,145.6125,77,145.0125,77,1,-,0.6,off,52.737737,14.705231,Debno,JO72IR
 SR1DMR,dmr,145.75,,145.15,,,-,0.6,working,54.124488,16.685599,Polanow,JO84IC
 SR1G,"fm, echolink",145.625,,145.025,88.5,,-,0.6,working,54.178284,15.553207,Kolobrzeg,JO74SE
-SR1K,fm,145.7,82.5,145.1,82.5,1,-,0.6,working,53.342431,15.024889,Stargard,JO73MI
+SR1K,"fm, dmr",145.7,82.5,145.1,82.5,1,-,0.6,working,53.3395,15.009,Stargard,JO73MI
 SR1KG,"dmr, c4fm",439.225,,431.625,,,-,7.6,working,54.178284,15.553207,Kolobrzeg,JO74SE
 SR1KN,fm,438.675,,431.075,,,-,7.6,working,54.207675,16.225714,"Koszalin Gora Chelmska - wieza widokowa",JO84CE
 SR1LS,fm,1298.3,,1270.3,,1,-,28,working,53.435441,14.539579,Szczecin,JO73GK
@@ -23,6 +23,7 @@ SR1S,"fm, dmr, c4fm",145.77,82.5,145.17,82.5,,-,0.6,planned,53.40396,14.52215,Sz
 SR1SZ,fm,439.075,82.5,431.475,82.5,,-,7.6,working,53.458827,14.535034,Szczecin,JO73GL
 SR1TET,tetra,431.625,,430.025,,,-,1.6,working,53.3425,15.0252,Stargard,JO73mi
 SR1TS,fm,29.67,82.5,29.57,82.5,,-,0.1,off,53.458827,14.535034,Szczecin,JO73GL
+SR1TSZ,tetra,430.075,,430.075,,,,0,working,53.4747,14.5472,Szczecin,JO73GL
 SR1UVH,dstar,439.025,,431.425,,,-,7.6,working,53.909623,14.254937,Swinoujscie,JO73DV
 SR1UVS,dstar,439.4125,,431.8125,,,-,7.6,working,53.435441,14.539579,Szczecin,JO73GK
 SR1UVS,dstar,1298.8,,1270.8,,,-,28,working,0,0,,
@@ -36,7 +37,7 @@ SR1WR,c4fm,438.6875,,431.0875,,,-,7.6,working,53.947183,15.53354,Ryman,JO73SW
 SR1WR,dmr,439.05,,431.45,,,-,7.6,working,53.947183,15.53354,Ryman,JO73SW
 SR1WU,fm,438.725,82.5,431.125,82.5,,-,7.6,working,53.907989,14.246773,Swinoujscie,JO73CV
 SR1WX,fm,439.2,82.5,431.6,82.5,,-,7.6,off,53.341126,15.039536,Stargard,JO73MI
-SR1YWX,c4fm,439.2625,,431.6625,,,-,7.6,working,53.339449,15.008799,Stargard,JO73MI
+SR1YWX,"fm, c4fm",439.2625,82.5,431.6625,82.5,,-,7.6,working,53.3395,15.009,Stargard,JO73MI
 SR1Z,fm,145.6375,82.5,145.0375,82.5,1,-,0.6,working,53.334105,14.67537,"Kolowo EMITEL",JO73II
 SR1ZDR,dmr,438.3125,,430.7125,,,-,7.6,inprogress,53.301882,15.908961,"Kalisz Pomorski",JO73WH
 SR1ZK-B,dstar,439.3,,431.7,,,-,7.6,working,53.334105,14.67537,Kolowo,JO73II
@@ -462,6 +463,7 @@ SR8LUF,c4fm,439.525,,431.925,,,-,7.6,working,51.225671,22.623193,Lublin,KO11HF
 SR8LW,"fm, echolink, fmpoland",438.7,,431.1,67,,-,7.6,working,51.928906,22.360262,"Lukow (Zbozowa 2)",KO11EW
 SR8LWB,fm,439.1375,67,431.5375,67,,-,7.6,inprogress,0,0,Bogdanka,KO11MH
 SR8MBR,"fm, echolink, fmpoland",50.54,71.9,432.6,71.9,,+,382.06,working,49.940092,22.048855,"Tyczyn, Lasek",KN19AW
+SR8NA,"fm, dmr, c4fm, dstar",438.825,71.9,431.225,71.9,,-,7.6,working,49.841,22.434,Dubiecko,KN19FU
 SR8NP,"fm, echolink",145.7625,186.2,145.1625,,,-,0.6,working,49.76715,22.755932,Przemysl,KN19JS
 SR8PL,"fm, fmlink",439.0875,118.8,431.4875,118.8,,-,7.6,working,51.325496,21.968573,"Kazimierz Dolny",KO01XH
 SR8PPN,"fm, echolink, fmpoland",438.9,,431.3,67,,-,7.6,working,51.371732,23.23574,"gm. Urszulin",KO11OI
@@ -470,6 +472,7 @@ SR8R,fm,145.675,,145.075,71.9,,-,0.6,working,50.048852,21.978431,Rzeszow,KO00XB
 SR8RD,dmr,438.9625,,431.3625,,,-,7.6,working,50.553361,22.074279,"Stalowa Wola",KO10AN
 SR8RJS,"fm, dmr",438.5,103.5,430.9,103.5,,-,7.6,inprogress,49.81322,21.350967,Opacie,KN09QT
 SR8RSC,"fm, echolink, fmpoland",145.2875,71.9,145.2875,71.9,,,0,working,49.9914,21.941145,Boguchwala,KN09XX
+SR8RW,"fm, fmpoland",433.5375,,433.5375,77,,,0,working,50.1980964,21.2675941,"Radomysl Wielki",KO00PE
 SR8RZ,"fm, c4fm",439.25,71.9,431.65,71.9,,-,7.6,off,0,0,Rzeszow,KN19AX
 SR8RZE,"fm, fmpoland",439.2875,71.9,431.6875,71.9,,-,7.6,working,50.062275,21.954842,Rzeszow,KO00XB
 SR8S,fm,145.7125,123,145.1125,123,,-,0.6,working,51.215067,22.70218,Swidnik,KO11IF

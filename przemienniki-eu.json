@@ -245,7 +245,8 @@
     {
         "callsign": "SR1K",
         "modes": [
-            "fm"
+            "fm",
+            "dmr"
         ],
         "tx_frequency": 145.7,
         "tx_ctcss": 82.5,
@@ -256,8 +257,8 @@
         "offset": 0.6,
         "status": "working",
         "coordinates": [
-            53.342431,
-            15.024889
+            53.3395,
+            15.009
         ],
         "qth": "Stargard",
         "locator": "JO73MI"
@@ -482,6 +483,26 @@
         "coordinates": [
             53.458827,
             14.535034
+        ],
+        "qth": "Szczecin",
+        "locator": "JO73GL"
+    },
+    {
+        "callsign": "SR1TSZ",
+        "modes": [
+            "tetra"
+        ],
+        "tx_frequency": 430.075,
+        "tx_ctcss": false,
+        "rx_frequency": 430.075,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": false,
+        "offset": 0,
+        "status": "working",
+        "coordinates": [
+            53.4747,
+            14.5472
         ],
         "qth": "Szczecin",
         "locator": "JO73GL"
@@ -752,19 +773,20 @@
     {
         "callsign": "SR1YWX",
         "modes": [
+            "fm",
             "c4fm"
         ],
         "tx_frequency": 439.2625,
-        "tx_ctcss": false,
+        "tx_ctcss": 82.5,
         "rx_frequency": 431.6625,
-        "rx_ctcss": false,
+        "rx_ctcss": 82.5,
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
         "status": "working",
         "coordinates": [
-            53.339449,
-            15.008799
+            53.3395,
+            15.009
         ],
         "qth": "Stargard",
         "locator": "JO73MI"
@@ -9472,6 +9494,29 @@
         "locator": "KN19AW"
     },
     {
+        "callsign": "SR8NA",
+        "modes": [
+            "fm",
+            "dmr",
+            "c4fm",
+            "dstar"
+        ],
+        "tx_frequency": 438.825,
+        "tx_ctcss": 71.9,
+        "rx_frequency": 431.225,
+        "rx_ctcss": 71.9,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            49.841,
+            22.434
+        ],
+        "qth": "Dubiecko",
+        "locator": "KN19FU"
+    },
+    {
         "callsign": "SR8NP",
         "modes": [
             "fm",
@@ -9637,6 +9682,27 @@
         ],
         "qth": "Boguchwala",
         "locator": "KN09XX"
+    },
+    {
+        "callsign": "SR8RW",
+        "modes": [
+            "fm",
+            "fmpoland"
+        ],
+        "tx_frequency": 433.5375,
+        "tx_ctcss": false,
+        "rx_frequency": 433.5375,
+        "rx_ctcss": 77,
+        "rx_1750": false,
+        "duplex": false,
+        "offset": 0,
+        "status": "working",
+        "coordinates": [
+            50.1980964,
+            21.2675941
+        ],
+        "qth": "Radomysl Wielki",
+        "locator": "KO00PE"
     },
     {
         "callsign": "SR8RZ",
