@@ -15,7 +15,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 13,SR6LWB,1298.600000,-,28.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Walbrzych,,,,
 14,SR1P,145.725000,-,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Kopnica,,,,
 15,SR3SR,439.100000,-,7.600000,Tone,110.9,110.9,023,NN,023,Tone->Tone,FM,5.00,,50W,Sulecinek,,,,
-16,SR4BF,438.800000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,,,,,
+16,SR4BF,438.800000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,KO12GW,,,,
 17,SR1GL,145.280000,,0.000000,Tone,82.5,82.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Goleniow,,,,
 18,SR5WRX,1287.575000,-,17.000000,Tone,127.3,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Warszawa,,,,
 19,SR6F,145.750000,-,0.600000,Tone,94.8,94.8,023,NN,023,Tone->Tone,FM,5.00,,50W,Biskupia Kopa,,,,
