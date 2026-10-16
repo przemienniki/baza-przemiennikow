@@ -226,7 +226,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 224,SR7L,145.675000,-,0.600000,,88.5,77.0,023,NN,023,Tone->Tone,FM,5.00,,50W,Lodz,,,,
 225,SR7KU,438.925000,-,7.600000,,88.5,82.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Kutno,,,,
 226,SR7KP,439.425000,-,7.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Kielce,,,,
-227,SR7KI,438.125000,+,0.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,RTCN Swiety Krzyz EmiTel - Lysa Gora/Nowa Slupia,,,,
+227,SR7KI,431.125000,+,7.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,RTCN Swiety Krzyz EmiTel - Lysa Gora/Nowa Slupia,,,,
 228,SR7KGO,145.275000,split,433.250000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,Busko-Zdroj,,,,
 229,SR7E,145.762500,-,0.600000,Tone,77.0,77.0,023,NN,023,Tone->Tone,FM,6.25,,50W,Belchatow,,,,
 230,SR7BU,145.237500,,0.000000,Tone,77.0,77.0,023,NN,023,Tone->Tone,FM,6.25,,50W,Burzenin,,,,
